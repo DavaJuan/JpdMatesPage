@@ -5,6 +5,7 @@ import termosData from "../../../public/termos.json";
 import combosData from "../../../public/combos.json";
 import accesoriosData from "../../../public/accesorios.json";
 import Navbar from "../NavBar/NavBar";
+import CategoriasGrid from "../CategoriasGrid/CategoriasGrid";
 
 const Home = () => {
   const allProductos = [
@@ -19,6 +20,7 @@ const Home = () => {
     <div>
       <SearchBar data={allProductos} />
       <Navbar />
+      <CategoriasGrid />
     </div>
   );
 };
