@@ -31,7 +31,7 @@ const SearchBar = ({ data }) => {
 
   return (
     <div className="bg-[#100d28] p-6 flex flex-col items-center md:flex-row md:items-center justify-center gap-10">
-      <Link to="/catalogo">
+      <Link to="/">
         <img
           src={logo}
           alt="jpdMates"

@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 flex justify-between items-center h-16">
         {/* Links - ocultos en mobile */}
         <div className="hidden md:flex space-x-8 text-xl">
-          <Link to="/catalogo" className="hover:text-blue-400">
+          <Link to="/" className="hover:text-blue-400">
             Inicio
           </Link>
           <Link to="/faq" className="hover:text-blue-400">

@@ -62,7 +62,7 @@ const ProductDetail = () => {
         </div>
 
         <Link
-          to="/catalogo"
+          to="/"
           className="flex mt-4 text-[#1f305e] hover:underline text-xl "
         >
           <FaArrowLeft className="m-1" /> Volver al catálogo
