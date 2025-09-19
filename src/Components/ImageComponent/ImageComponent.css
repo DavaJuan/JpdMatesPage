@@ -1,0 +1,11 @@
+.ic-container {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.ic-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

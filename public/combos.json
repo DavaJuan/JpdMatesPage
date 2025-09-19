@@ -1,0 +1,34 @@
+[
+  {
+    "id": 47,
+    "nombre": "Kit Viajero",
+    "precio": 25000,
+    "imagen": "/combos-img/viajero.jpeg",
+    "descripcion": "Kit viajero negro, bolso matero clásico + yerbero + azucarero + mate térmico vasito + bombilla chata.",
+    "tipo": "combo"
+  },
+  {
+    "id": 48,
+    "nombre": "Combo Full Set Matero",
+    "precio": 58000,
+    "imagen": "/combos-img/full.jpg",
+    "descripcion": "Set Matero completo, matera negra + termo acero 1l + imperial con virola de acero + yerbero + azucarero + bombilla chata.",
+    "tipo": "combo"
+  },
+  {
+    "id": 49,
+    "nombre": "Combo Algarrobo",
+    "precio": 31000,
+    "imagen": "/combos-img/alg.jpeg",
+    "descripcion": "Combo matero, camionero de algarrobo + bombilla chata + canata eco-cuero + yerbero + azucarero.",
+    "tipo": "combo"
+  },
+  {
+    "id": 50,
+    "nombre": "Combo Imperial Alpaca",
+    "precio": 45000,
+    "imagen": "/combos-img/alpaca.jpeg",
+    "descripcion": "Combo matero, Imperial de alpaca + canasta eco-cuero + chaulata + bombilla chata.",
+    "tipo": "combo"
+  }
+]

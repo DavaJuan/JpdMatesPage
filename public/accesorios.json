@@ -1,0 +1,234 @@
+[
+  {
+    "id": 51,
+    "nombre": "Matera Mango Recto",
+    "precio": 15000,
+    "imagen": "/accesorios-img/recta.jpeg",
+    "descripcion": "Canasta Matera con mango rígido, con piso reforzado de excelente calidad.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 52,
+    "nombre": "Matera de Eco-Cuero",
+    "precio": 16000,
+    "imagen": "/accesorios-img/eco.jpeg",
+    "descripcion": "Canasta Matera de ecocuero con piso reforzado y separador en el medio.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 53,
+    "nombre": "Matera de Cuero",
+    "precio": 28000,
+    "imagen": "/accesorios-img/cuero.jpeg",
+    "descripcion": "Canasta Matera 100% de cuero super reforzada. Varios colores disponibles.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 54,
+    "nombre": "Porta Mate Eco-Cuero",
+    "precio": 7000,
+    "imagen": "/accesorios-img/portaMate.jpg",
+    "descripcion": "Porta Mate de cuerina con doble costura y doble remache. Ideal para el auto.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 55,
+    "nombre": "Porta Mate Cuero",
+    "precio": 14000,
+    "imagen": "/accesorios-img/portaCuero.jpeg",
+    "descripcion": "Porta Mate 100% Cuero con doble costura y doble remache. Ideal para el auto. Varios colores disponibles.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 80,
+    "nombre": "Yerba Verdecita 500g",
+    "precio": 4800,
+    "imagen": "/yerbas/verdecita-500.jpeg",
+    "descripcion": "Yerba Verdecita de 500g.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 81,
+    "nombre": "Yerba Verdecita 1K",
+    "precio": 7600,
+    "imagen": "/yerbas/verdecita-1k.jpeg",
+    "descripcion": "Yerba Verdecita de 1K.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 82,
+    "nombre": "Yerba Rei Verde Premium 500g",
+    "precio": 5800,
+    "imagen": "/yerbas/rei-export-500.jpeg",
+    "descripcion": "Yerba Rei Verde Premium 500g",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 83,
+    "nombre": "Yerba Rei Verde Premium 1K",
+    "precio": 9800,
+    "imagen": "/yerbas/rei-export-1k.jpeg",
+    "descripcion": "Yerba Rei Verde Premium 1K",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 84,
+    "nombre": "Yerba Pindare 500g",
+    "precio": 4900,
+    "imagen": "/yerbas/pindare-500.jpeg",
+    "descripcion": "Yerba Pindare 500g",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 85,
+    "nombre": "Yerba Pindare 1K",
+    "precio": 8000,
+    "imagen": "/yerbas/pindare-1k.jpeg",
+    "descripcion": "Yerba Pindare 1k.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 86,
+    "nombre": "Yerba Rei Verde Tradicional 500g",
+    "precio": 5200,
+    "imagen": "/yerbas/rei-tra.jpeg",
+    "descripcion": "Yerba Rei Verde Tradicional 500g.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 87,
+    "nombre": "Yerba Rei Verde Tradicional 1K",
+    "precio": 8300,
+    "imagen": "/yerbas/rei-tra-1k.jpeg",
+    "descripcion": "Yerba Rei Verde Tradicional 1K.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 88,
+    "nombre": "Yerba Baldo 500g",
+    "precio": 6600,
+    "imagen": "/yerbas/baldo-500.jpeg",
+    "descripcion": "Yerba Baldo 500g.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 89,
+    "nombre": "Yerba Baldo 1K",
+    "precio": 10700,
+    "imagen": "/yerbas/baldo-1k.jpeg",
+    "descripcion": "Yerba Baldo 1K.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 90,
+    "nombre": "Yerba Baldo 5K",
+    "precio": 46500,
+    "imagen": "/yerbas/baldo-5k.jpeg",
+    "descripcion": "Yerba Baldo 5K.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 91,
+    "nombre": "Yerba Canarias Serena 500g",
+    "precio": 6500,
+    "imagen": "/yerbas/serena-500.jpeg",
+    "descripcion": "Yerba Canarias Serena 500g.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 92,
+    "nombre": "Yerba Canarias Serena 1K",
+    "precio": 10800,
+    "imagen": "/yerbas/serena-1k.jpeg",
+    "descripcion": "Yerba Canarias Serena 1K.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 93,
+    "nombre": "Yerba Canarias Te Verde y Jengibre 500g",
+    "precio": 6700,
+    "imagen": "/yerbas/te-verde-500.jpeg",
+    "descripcion": "Yerba Canarias Te Verde y Jengibre 500g",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 94,
+    "nombre": "Yerba Canarias Edición Especial 500g",
+    "precio": 6600,
+    "imagen": "/yerbas/especial-500.jpeg",
+    "descripcion": "Yerba Canarias Edición Especial 500g",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 95,
+    "nombre": "Yerba Canarias Tradicional 500g",
+    "precio": 6100,
+    "imagen": "/yerbas/tradicional-500.jpeg",
+    "descripcion": "Yerba Canarias Tradicional 500g",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 96,
+    "nombre": "Yerba Canarias Tradicional 1K",
+    "precio": 10000,
+    "imagen": "/yerbas/tradicional-1k.jpeg",
+    "descripcion": "Yerba Canarias Tradicional 1K",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 57,
+    "nombre": "Chaulata",
+    "precio": 7000,
+    "imagen": "/accesorios-img/chauLata.jpeg",
+    "descripcion": "Chaulata x2 yerbero + azucarero. Varios colores disponibles.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 58,
+    "nombre": "Latas Matero",
+    "precio": 8000,
+    "imagen": "/accesorios-img/matero.jpeg",
+    "descripcion": "Latas Matero, yerbero y azucarero. Varios colores disponibles.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 59,
+    "nombre": "Vaso Fernetero",
+    "precio": 8000,
+    "imagen": "/accesorios-img/fernetero.jpeg",
+    "descripcion": "Vaso Fernetero 1L color negro LISO.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 60,
+    "nombre": "Vaso Fernetero Grabado",
+    "precio": 10000,
+    "imagen": "/accesorios-img/fer-grabado.jpeg",
+    "descripcion": "Vaso Fernetero 1L color negro GRABADO. Varios grabados disponibles.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 60,
+    "nombre": "Tapa Mate Sol de Mayo",
+    "precio": 8000,
+    "imagen": "/accesorios-img/sol.jpeg",
+    "descripcion": "Tapa Mate de acero con grabado del Sol de Mayo.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 61,
+    "nombre": "Tapa Mate Alpaca Cincelada",
+    "precio": 11000,
+    "imagen": "/accesorios-img/tapa.jpeg",
+    "descripcion": "Tapa Mate de alpaca cincelada.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 56,
+    "nombre": "Luz Mate",
+    "precio": 5000,
+    "imagen": "/accesorios-img/luz.jpeg",
+    "descripcion": "Luz Mate, ideal para mates en lugares con poca luz y mantener la preciosion al cebar.",
+    "tipo": "accesorio"
+  }
+]

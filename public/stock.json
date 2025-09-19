@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "nombre": "Imperial PVC",
+    "precio": 10000,
+    "imagen": "/images-imp/imperial-pvc.jpeg",
+    "descripcion": "Imperial de PVC negro con interior de calabaza.",
+    "tipo": "mate"
+  },
+  {
+    "id": 2,
+    "nombre": "Imperial Algarrobo Bronce",
+    "precio": 20500,
+    "imagen": "/images-imp/algarrobo-bronce.jpeg",
+    "descripcion": "Mate Imperial 100% de algarrobo con guarda de bronce gruesa.",
+    "tipo": "mate"
+  },
+  {
+    "id": 3,
+    "nombre": "Imperial Algarrobo Acero",
+    "precio": 19990,
+    "imagen": "/images-imp/alg-acero.jpeg",
+    "descripcion": "Imperial de algarrobo con guarda de acero, base y boca anchas.",
+    "tipo": "mate"
+  },
+  {
+    "id": 78,
+    "nombre": "Imperial Roma Algarrobo",
+    "precio": 32000,
+    "imagen": "/images-imp/imp-roma-alg.jpeg",
+    "descripcion": "Imperial Roma de algarrobo con guarda de alpaca y base completa con pelotitas de bronce.",
+    "tipo": "mate"
+  },
+  {
+    "id": 4,
+    "nombre": "Imperial interior de Acero",
+    "precio": 24000,
+    "imagen": "/images-imp/imp-int-acero.jpeg",
+    "descripcion": "Mate Imperial con interior de acero térmico en color blanco, negro y marrón. Con guarda de acero.",
+    "tipo": "mate"
+  },
+  {
+    "id": 5,
+    "nombre": "Imperial Clásico de Calabaza",
+    "precio": 28000,
+    "imagen": "/images-imp/imp-clasico.jpeg",
+    "descripcion": "Mate Imperial clásico de calabaza con guarda de alpaca y cuerpo recubierto de cuero. 100% calabaza.",
+    "tipo": "mate"
+  },
+  {
+    "id": 6,
+    "nombre": "Imperial Roma",
+    "precio": 38000,
+    "imagen": "/images-imp/imp-roma.jpeg",
+    "descripcion": "Mate Imperial Roma de calabaza, recubiento por cuero cincelado, virola de alpaca y base de alpaca cincelada.",
+    "tipo": "mate"
+  },
+  {
+    "id": 7,
+    "nombre": "Imperial guarda Cincelada",
+    "precio": 29000,
+    "imagen": "/images-imp/imp-guarca-cincelada.jpeg",
+    "descripcion": "Mate Imperial con interior de calabaza y virola de alpaca cincelada. Tamaños surtidos.",
+    "tipo": "mate"
+  },
+  {
+    "id": 8,
+    "nombre": "Imperial color Suela",
+    "precio": 34000,
+    "imagen": "/images-imp/imp-suela.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza con virola de alpaca, bocha ancha y tamaño mediano.",
+    "tipo": "mate"
+  },
+  {
+    "id": 9,
+    "nombre": "Imperial cuero Croco",
+    "precio": 34000,
+    "imagen": "/images-imp/imp-croco.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza, con virola de alpaca y cuero croco. Colores disponibles: negro y marrón.",
+    "tipo": "mate"
+  },
+  {
+    "id": 10,
+    "nombre": "Imperial color Natural",
+    "precio": 38000,
+    "imagen": "/images-imp/imp-alpca-suela.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza. Virola cincelada y base de alpaca. Color natural.",
+    "tipo": "mate"
+  },
+  {
+    "id": 11,
+    "nombre": "Imperial virola de Bronce, color Marrón",
+    "precio": 25000,
+    "imagen": "/images-imp/imp-marron-bronce.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza. Con virola de bronce y cuerpo recubierto de cuero marrón.",
+    "tipo": "mate"
+  },
+  {
+    "id": 12,
+    "nombre": "Imperial Animal Print",
+    "precio": 30000,
+    "imagen": "/images-imp/imp-animal-print.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza, con cuero Animal Print y virola de alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 75,
+    "nombre": "Imperial Animal Print Acero",
+    "precio": 25000,
+    "imagen": "/images-imp/imp-animal-acero.jpeg",
+    "descripcion": "Mate Imperial con cuero Animal Print, interiro de acero inoxidable y con virola de alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 13,
+    "nombre": "Imperial con base de Alpaca",
+    "precio": 38000,
+    "imagen": "/images-imp/imp-base-alpaca-negro.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza con virola y base de alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 14,
+    "nombre": "Imperial con base de Alpaca y pelotitas",
+    "precio": 38000,
+    "imagen": "/images-imp/imp-base-y-pelotas.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza con virola y base con pelotas de bronce, cuero liso o croco.",
+    "tipo": "mate"
+  },
+  {
+    "id": 76,
+    "nombre": "Imperial Criollo",
+    "precio": 34000,
+    "imagen": "/images-imp/imp-criollo.jpeg",
+    "descripcion": "Mate Imperial tipo Criollo con cuero repujado y virola de acero. Colores Negro, Suela y Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 77,
+    "nombre": "Imperial Premium",
+    "precio": 45000,
+    "imagen": "/images-imp/imp-base-completa.jpeg",
+    "descripcion": "Mate Imperial 100% calabaza, con base completa de alpaca y pelotas de bronce y virola de alpaca. Colores Marron y Negro.",
+    "tipo": "mate"
+  },
+  {
+    "id": 15,
+    "nombre": "Torpedo guarda de Aluminio",
+    "precio": 18000,
+    "imagen": "/images-torp/torp-aluminio.jpeg",
+    "descripcion": "Torpedo 100% calabaza con virola de aluminio y cuerpo de recubierto de cuero.",
+    "tipo": "mate"
+  },
+  {
+    "id": 16,
+    "nombre": "Torpedo Boca",
+    "precio": 32000,
+    "imagen": "/images-torp/torp-boca.jpeg",
+    "descripcion": "Torpedo 100% calabaza con virola de bronce cincelada y cuero pintado artesanalmente.",
+    "tipo": "mate"
+  },
+  {
+    "id": 17,
+    "nombre": "Torpedo de Algarrobo brilloso",
+    "precio": 23000,
+    "imagen": "/images-torp/torp-algarrobo.jpg",
+    "descripcion": "Torpedo de algarrobo tipo copita, brilloso y con virola de alpaca cincelada.",
+    "tipo": "mate"
+  },
+  {
+    "id": 18,
+    "nombre": "Torpedo con virola de Alpaca Cincelada",
+    "precio": 32000,
+    "imagen": "/images-torp/torp-cincelado.jpeg",
+    "descripcion": "Torpedo 100% calabaza con virola de alpaca cincelada. Color Negro o Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 19,
+    "nombre": "Torpedo Algarrobo Artesanal",
+    "precio": 22000,
+    "imagen": "/images-torp/torp-barnizado.jpeg",
+    "descripcion": "Torpedo de algarrobo barnizado con virola de alpaca cincelada artesanal.",
+    "tipo": "mate"
+  },
+  {
+    "id": 20,
+    "nombre": "Torpedo Cuero Repujado",
+    "precio": 38000,
+    "imagen": "/images-torp/torp-repuj-negro.jpeg",
+    "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Negro.",
+    "tipo": "mate"
+  },
+  {
+    "id": 21,
+    "nombre": "Torpedo Cuero Liso",
+    "precio": 40000,
+    "imagen": "/images-torp/torp-repuj-marron.jpeg",
+    "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 22,
+    "nombre": "Torpedo virola de Bronce",
+    "precio": 30000,
+    "imagen": "/images-torp/torp-bronce.jpeg",
+    "descripcion": "Torpedo 100% calabaza con base de alpaca, pelotitas y virola de bronce. Color Negro.",
+    "tipo": "mate"
+  },
+  {
+    "id": 23,
+    "nombre": "Torpedo Croco",
+    "precio": 39800,
+    "imagen": "/images-torp/torp-croco.jpeg",
+    "descripcion": "Torpedo 100% calabaza con base y virola de alpaca con pelotitas de bronce. Color Negro o Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 70,
+    "nombre": "Torpedo Animal Print",
+    "precio": 40000,
+    "imagen": "/images-torp/torp-print.jpeg",
+    "descripcion": "Torpedo 100% calabaza recubierto por cuero con animal print de pelitos. Virola de alpaca cincelada, excelente calidad.",
+    "tipo": "mate"
+  },
+  {
+    "id": 71,
+    "nombre": "Torpedo Animal Print Premium",
+    "precio": 45000,
+    "imagen": "/images-torp/torp-print-p.jpeg",
+    "descripcion": "Torpedo 100% calabaza recubierto por cuero con animal print de pelitos. Virola de alpaca cincelada con aro de bronce y vase de alpaca con pelotitas de bronce.",
+    "tipo": "mate"
+  },
+  {
+    "id": 72,
+    "nombre": "Torpedo Vaca",
+    "precio": 40000,
+    "imagen": "/images-torp/torp-vaca.jpeg",
+    "descripcion": "Torpedo 100% calabaza recubierto por cuero vaquita y virola de alpaca cincelada.",
+    "tipo": "mate"
+  },
+  {
+    "id": 73,
+    "nombre": "Torpedo Uruguayo",
+    "precio": 31000,
+    "imagen": "/images-torp/torp-uru.jpeg",
+    "descripcion": "Torpedo 100% calabaza recubierto por cuero de alta calidad, con virola tipo uruguaya de alpaca brillosa. Colores Marron y Negro.",
+    "tipo": "mate"
+  },
+  {
+    "id": 74,
+    "nombre": "Torpedo Criollo",
+    "precio": 37000,
+    "imagen": "/images-torp/torp-criollo.jpeg",
+    "descripcion": "Torpedo Criollo 100% calabaza con virola de alpaca y cuero repujado.",
+    "tipo": "mate"
+  },
+  {
+    "id": 24,
+    "nombre": "Mate Ranchero",
+    "precio": 28000,
+    "imagen": "/imagenes/ranchero.jpg",
+    "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas blancas.",
+    "tipo": "mate"
+  },
+  {
+    "id": 66,
+    "nombre": "Mate Ranchero Rosa",
+    "precio": 28000,
+    "imagen": "/images-cam/ranchero-rosa.jpeg",
+    "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas rosas.",
+    "tipo": "mate"
+  },
+  {
+    "id": 67,
+    "nombre": "Mate Ranchero Negro",
+    "precio": 28000,
+    "imagen": "/images-cam/ranchero-negro.jpeg",
+    "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas negras.",
+    "tipo": "mate"
+  },
+  {
+    "id": 68,
+    "nombre": "Mate Ranchero Celeste",
+    "precio": 28000,
+    "imagen": "/images-cam/ranchero-celeste.jpeg",
+    "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas celeste.",
+    "tipo": "mate"
+  },
+  {
+    "id": 69,
+    "nombre": "Mate Ranchero Marron",
+    "precio": 28000,
+    "imagen": "/images-cam/ranchero-marron.jpeg",
+    "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, full marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 25,
+    "nombre": "Mate Ranchero para pintar",
+    "precio": 16200,
+    "imagen": "/imagenes/ranchero-pintar.jpeg",
+    "descripcion": "Mate ranchero moldeado y listo para pintar, ideal para darle el diseño que más te guste.",
+    "tipo": "mate"
+  },
+  {
+    "id": 26,
+    "nombre": "Mate Gotita",
+    "precio": 8000,
+    "imagen": "/imagenes/gotita.jpeg",
+    "descripcion": "Mate Gotita, 100% de algarrobo, listo para pintar o dejarlo con su color natural.",
+    "tipo": "mate"
+  },
+  {
+    "id": 27,
+    "nombre": "Camionero de Aluminio",
+    "precio": 12500,
+    "imagen": "/images-cam/cam-alum.jpeg",
+    "descripcion": "Mate Camionero de calabaza con virola de aluminio. Varios tamaños disponibles. Color Negro, Marron y Suela.",
+    "tipo": "mate"
+  },
+  {
+    "id": 28,
+    "nombre": "Camionero Acero",
+    "precio": 23400,
+    "imagen": "/images-cam/cam-acero.jpeg",
+    "descripcion": "Mate Camionero de calabaza con virola de acero. Varios tamaños disponibles. Color Negro y Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 29,
+    "nombre": "Camionero Algarrobo Brilloso",
+    "precio": 13000,
+    "imagen": "/images-cam/cam-algarrobo.jpeg",
+    "descripcion": "Mate Camionero 100% Algarrobo, con virola de acero inoxidable.",
+    "tipo": "mate"
+  },
+  {
+    "id": 65,
+    "nombre": "Camionero Full Calabaza",
+    "precio": 13000,
+    "imagen": "/images-cam/cam-calabaza.jpeg",
+    "descripcion": "Mate Camionero de calabaza con base redonda de alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 79,
+    "nombre": "Camionero Criollo Laqueado",
+    "precio": 26000,
+    "imagen": "/images-cam/cam-criollo-bri.jpeg",
+    "descripcion": "Mate Camionero Criollo 100% calabaza laqueada y virola de acero.",
+    "tipo": "mate"
+  }
+]
