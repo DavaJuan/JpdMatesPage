@@ -16,7 +16,7 @@ const Bombillas = () => {
             <div className="w-full bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2x1 mt-1 mb-1 lg:mt-0">
               <img
                 className="h-100 w-full object-cover rounded-t-lg"
-                src={bombilla.imagenes}
+                src={bombilla.imagenes[0]}
                 alt={bombilla.nombre}
               />
               <div className="p-2">

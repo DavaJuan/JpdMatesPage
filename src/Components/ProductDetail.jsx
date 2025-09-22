@@ -25,6 +25,12 @@ const ProductDetail = () => {
     );
   };
 
+  const phoneNumber = "1153754846";
+  const message = `Hola! Quiero el Mate/Producto ${product.nombre}!`;
+  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
+    message
+  )}`;
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-2 gap-8">
       {/* Imagen del producto con slider */}
@@ -72,13 +78,21 @@ const ProductDetail = () => {
       {/* Detalle del producto */}
       <div className="space-y-4">
         <h1 className="text-2xl font-bold">{product.nombre}</h1>
-
         <div className="flex items-center gap-4">
           <span className="text-2xl font-bold">${product.precio}</span>
         </div>
-
         <div className="grid grid-cols-1 gap-4">
           <span className="text-xl p-1">{product.descripcion}</span>
+        </div>
+        <div>
+          <a
+            href={whatsappUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 inline-block bg-green-600 text-white py-2 px-4 rounded-lg hover:bg-green-700"
+          >
+            Lo quiero!
+          </a>
         </div>
       </div>
     </div>

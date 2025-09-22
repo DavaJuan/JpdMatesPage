@@ -292,7 +292,11 @@
     "id": 33,
     "nombre": "Mate Ranchero",
     "precio": 28000,
-    "imagenes": ["/imagenes/ranchero.jpg"],
+    "imagenes": [
+      "/imagenes/ranchero.jpeg",
+      "/imagenes/ranchero-2.jpeg",
+      "/imagenes/ranchero-3.jpeg"
+    ],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas blancas.",
     "tipo": "mate"
   },
@@ -437,7 +441,11 @@
     "id": 50,
     "nombre": "Bombillon Pico Recto",
     "precio": 30000,
-    "imagenes": ["/bombillas-img/bomb-recto.jpeg"],
+    "imagenes": [
+      "/bombillas-img/bomb-recto.jpg",
+      "/bombillas-img/bomb-recto2.jpg",
+      "/bombillas-img/bomb-recto3.jpg"
+    ],
     "descripcion": "Bombillon de alpaca/bronce pico de loro. 18cm.",
     "tipo": "bombilla"
   },
@@ -470,7 +478,11 @@
     "id": 54,
     "nombre": "Bombillon Caño Abstracto o Pampa",
     "precio": 23000,
-    "imagenes": ["/bombillas-img/bombillon-dibujado.jpeg"],
+    "imagenes": [
+      "/bombillas-img/bombillon-dibujado.jpeg",
+      "/bombillas-img/bombillon-dibujado2.jpeg",
+      "/bombillas-img/bombillon-dibujado3.jpg"
+    ],
     "descripcion": "Bombillon de alpaca con pico de bronce, con diseño abstracto o pampa en su caño.",
     "tipo": "bombilla"
   },
@@ -933,5 +945,46 @@
     "imagenes": ["/imagenes/accesorio.jpeg"],
     "descripcion": "Vaso Térmico de 1L con manija y pico antivuelcos, colores surtidos.",
     "tipo": "accesorio"
+  },
+  {
+    "id": 110,
+    "nombre": "Vaso Térmico 500ml",
+    "precio": 15000,
+    "imagenes": ["/imagenes/vasos.jpeg"],
+    "descripcion": "Vaso Térmico de 500ml, con interior de acero inoxidable y cierre hermetico. Colores surtidos.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 111,
+    "nombre": "Vaso de Café",
+    "precio": 8000,
+    "imagenes": [
+      "/imagenes/vaso-cafe.jpeg",
+      "/imagenes/vaso-cafe-1.jpeg",
+      "/imagenes/vaso-cafe-2.jpeg"
+    ],
+    "descripcion": "Vaso Térmico para cafe.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 112,
+    "nombre": "Mate Listo",
+    "precio": 18000,
+    "imagenes": ["/imagenes/mate-listo.jpeg"],
+    "descripcion": "Mate Listo autocebante de 750CC, con doble capa de acero y agarre de goma. Colores sutidos.",
+    "tipo": "accesorio"
+  },
+  {
+    "id": 113,
+    "nombre": "Bombillon Clubes de Futbol",
+    "precio": 25000,
+    "imagenes": [
+      "/bombillas-img/bf-1.jpeg",
+      "/bombillas-img/bf-2.jpeg",
+      "/bombillas-img/bf-3.jpeg",
+      "/bombillas-img/bf-4.jpeg"
+    ],
+    "descripcion": "Bombillon de alpaca y pico de bronce. Con dije de clubes de futbol.",
+    "tipo": "bombilla"
   }
 ]
