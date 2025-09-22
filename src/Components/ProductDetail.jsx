@@ -32,7 +32,7 @@ const ProductDetail = () => {
         <img
           src={product.imagenes[currentImage]}
           alt={`${product.nombre} ${currentImage + 1}`}
-          className="w-full h-[750px] object-cover rounded-xl shadow-md"
+          className="w-full h-[550px] object-cover rounded-xl shadow-md"
         />
 
         {/* Botones izquierda/derecha */}
@@ -71,14 +71,14 @@ const ProductDetail = () => {
 
       {/* Detalle del producto */}
       <div className="space-y-4">
-        <h1 className="text-3xl font-bold">{product.nombre}</h1>
+        <h1 className="text-2xl font-bold">{product.nombre}</h1>
 
         <div className="flex items-center gap-4">
-          <span className="text-3xl font-bold">${product.precio}</span>
+          <span className="text-2xl font-bold">${product.precio}</span>
         </div>
 
         <div className="grid grid-cols-1 gap-4">
-          <span className="text-2xl p-1">{product.descripcion}</span>
+          <span className="text-xl p-1">{product.descripcion}</span>
         </div>
       </div>
     </div>

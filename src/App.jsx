@@ -12,10 +12,12 @@ import MatePage from "./Components/MatePage";
 import TermoPage from "./Components/TermoPage";
 import ComboPage from "./Components/ComboPage";
 import AccesorioPage from "./Components/AccesorioPage";
+import ScrollToTop from "./Components/ScrollToTop";
 
 const App = () => {
   return (
     <div>
+      <ScrollToTop />
       <Home />
       <Routes>
         <Route path="/" element={<ProductList />} />
