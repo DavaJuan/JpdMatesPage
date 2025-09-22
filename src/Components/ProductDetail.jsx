@@ -1,72 +1,85 @@
-import matesData from "../../public/stock.json";
-import bombillasData from "../../public/bombillas.json";
-import termosData from "../../public/termos.json";
-import combosData from "../../public/combos.json";
-import accesoriosData from "../../public/accesorios.json";
 import { useParams, Link } from "react-router-dom";
-import { FaArrowLeft } from "react-icons/fa";
+import { FaArrowLeft, FaChevronLeft, FaChevronRight } from "react-icons/fa";
+import { useState } from "react";
+import products from "../../public/stock.json";
 
 const ProductDetail = () => {
-  const { tipo, id } = useParams();
+  const { id, tipo } = useParams();
+  const product = products.find(
+    (p) => p.id === parseInt(id) && p.tipo === tipo
+  );
+  const [currentImage, setCurrentImage] = useState(0);
 
-  let data = [];
+  if (!product)
+    return <p className="text-center p-4">Producto no encontrado</p>;
 
-  switch (tipo) {
-    case "mate":
-      data = matesData;
-      break;
-    case "bombilla":
-      data = bombillasData;
-      break;
-    case "termo":
-      data = termosData;
-      break;
-    case "combo":
-      data = combosData;
-      break;
-    case "accesorio":
-      data = accesoriosData;
-      break;
-    default:
-      data = [];
-  }
-
-  const producto = data.find((item) => String(item.id) === String(id));
-
-  if (!producto) {
-    return (
-      <div className="text-center mt-10 text-red-500">
-        Producto no encontrado.
-      </div>
+  const handlePrev = () => {
+    setCurrentImage((prev) =>
+      prev === 0 ? product.imagenes.length - 1 : prev - 1
     );
-  }
+  };
+
+  const handleNext = () => {
+    setCurrentImage((prev) =>
+      prev === product.imagenes.length - 1 ? 0 : prev + 1
+    );
+  };
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-2 gap-8">
-      <div className="flex flex-col md:flex-row gap-6 items-center">
+      {/* Imagen del producto con slider */}
+      <div className="relative">
         <img
-          src={producto.imagen}
-          alt={producto.nombre}
+          src={product.imagenes[currentImage]}
+          alt={`${product.nombre} ${currentImage + 1}`}
           className="w-full h-[750px] object-cover rounded-xl shadow-md"
         />
+
+        {/* Botones izquierda/derecha */}
+        {product.imagenes.length > 1 && (
+          <>
+            <button
+              onClick={handlePrev}
+              className="absolute top-1/2 left-4 -translate-y-1/2 bg-white/70 hover:bg-white p-2 rounded-full shadow cursor-pointer"
+            >
+              <FaChevronLeft size={20} />
+            </button>
+            <button
+              onClick={handleNext}
+              className="absolute top-1/2 right-4 -translate-y-1/2 bg-white/70 hover:bg-white p-2 rounded-full shadow cursor-pointer"
+            >
+              <FaChevronRight size={20} />
+            </button>
+          </>
+        )}
+
+        {/* Miniaturas debajo */}
+        <div className="flex gap-2 mt-4 justify-center overflow-x-auto no-scrollbar">
+          {product.imagenes.map((img, idx) => (
+            <img
+              key={idx}
+              src={img}
+              alt={`thumb ${idx}`}
+              onClick={() => setCurrentImage(idx)}
+              className={`w-20 h-20 object-cover rounded-lg cursor-pointer border-2 ${
+                currentImage === idx ? "border-blue-600" : "border-transparent"
+              }`}
+            />
+          ))}
+        </div>
       </div>
 
+      {/* Detalle del producto */}
       <div className="space-y-4">
-        <h1 className="text-3xl font-bold">{producto.nombre}</h1>
+        <h1 className="text-3xl font-bold">{product.nombre}</h1>
 
         <div className="flex items-center gap-4">
-          <span className="text-3xl font-bold">${producto.precio}</span>
-        </div>
-        <div className="flex items-center gap-4">
-          <span className="text-3xl">{producto.descripcion}</span>
+          <span className="text-3xl font-bold">${product.precio}</span>
         </div>
 
-        <Link
-          to="/"
-          className="flex mt-4 text-[#1f305e] hover:underline text-xl "
-        >
-          <FaArrowLeft className="m-1" /> Volver al catálogo
-        </Link>
+        <div className="grid grid-cols-1 gap-4">
+          <span className="text-2xl p-1">{product.descripcion}</span>
+        </div>
       </div>
     </div>
   );

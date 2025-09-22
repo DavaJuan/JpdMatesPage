@@ -1,31 +1,31 @@
 import { Link } from "react-router-dom";
-import stock from "../../../public/stock.json";
+import stock from "../../public/stock.json";
 
-const Bombillas = () => {
-  const bombillas = stock.filter((producto) => producto.tipo === "bombilla");
+const AccesorioPage = () => {
+  const accesorios = stock.filter((producto) => producto.tipo === "accesorio");
 
   return (
     <div>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-4 lg:gap-8 p-10 ">
-        {bombillas.map((bombilla) => (
+        {accesorios.map((accesorio) => (
           <Link
-            to={`/bombilla/${bombilla.id}`}
-            key={bombilla.id}
+            to={`/accesorio/${accesorio.id}`}
+            key={accesorio.id}
             className="gap-6 flex-wrap flex justify-center p-4 cursor-pointer"
           >
             <div className="w-full bg-white rounded-xl transform transition-all hover:-translate-y-2 duration-300 shadow-lg hover:shadow-2x1 mt-1 mb-1 lg:mt-0">
               <img
                 className="h-100 w-full object-cover rounded-t-lg"
-                src={bombilla.imagenes}
-                alt={bombilla.nombre}
+                src={accesorio.imagenes[0]}
+                alt={accesorio.nombre}
               />
               <div className="p-2">
-                <h2 className="font-bold text-lg mb-2">{bombilla.nombre}</h2>
+                <h2 className="font-bold text-lg mb-2">{accesorio.nombre}</h2>
                 <p className="text-sm text-gray-600 mt-2 mb-2">
-                  {bombilla.descripcion}
+                  {accesorio.descripcion}
                 </p>
                 <span className="text-xl font-semibold">
-                  ${bombilla.precio}
+                  ${accesorio.precio}
                 </span>
               </div>
             </div>
@@ -36,4 +36,4 @@ const Bombillas = () => {
   );
 };
 
-export default Bombillas;
+export default AccesorioPage;

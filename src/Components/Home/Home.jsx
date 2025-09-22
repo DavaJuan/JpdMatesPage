@@ -1,19 +1,9 @@
 import SearchBar from "../SearchBar/SearchBar";
-import matesData from "../../../public/stock.json";
-import bombillasData from "../../../public/bombillas.json";
-import termosData from "../../../public/termos.json";
-import combosData from "../../../public/combos.json";
-import accesoriosData from "../../../public/accesorios.json";
 import Navbar from "../NavBar/NavBar";
+import stock from "../../../public/stock.json";
 
 const Home = () => {
-  const allProductos = [
-    ...matesData,
-    ...bombillasData,
-    ...termosData,
-    ...combosData,
-    ...accesoriosData,
-  ];
+  const allProductos = [...stock];
 
   return (
     <div>

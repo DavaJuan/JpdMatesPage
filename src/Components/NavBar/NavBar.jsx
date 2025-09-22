@@ -6,7 +6,7 @@ import { useState } from "react";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const whatsappUrl =
-    "https://wa.me/5491153754846?text=Hola!%20Quiero%20más%20info!";
+    "https://wa.me/5491153754846?text=Hola!%20Quiero%20más%20info%20sobre%20el%20producto%20...!";
 
   return (
     <nav className="bg-zinc-900 text-white">
@@ -16,14 +16,14 @@ const Navbar = () => {
           <Link to="/" className="hover:text-blue-400">
             Inicio
           </Link>
+          <Link to="/categorias" className="hover:text-blue-400">
+            Categorias
+          </Link>
           <Link to="/faq" className="hover:text-blue-400">
             FAQ
           </Link>
           <Link to="/curarmate" className="hover:text-blue-400">
             Curar tu Mate
-          </Link>
-          <Link to="/accesorios" className="hover:text-blue-400">
-            Accesorios - Yerbas
           </Link>
         </div>
 
@@ -46,17 +46,17 @@ const Navbar = () => {
       {/* Menú mobile */}
       {isOpen && (
         <div className="md:hidden px-4 pb-4 flex flex-col space-y-2">
-          <Link to="/catalogo" className="hover:text-blue-400">
+          <Link to="/" className="hover:text-blue-400">
             Inicio
+          </Link>
+          <Link to="/categorias" className="hover:text-blue-400">
+            Categorias
           </Link>
           <Link to="/faq" className="hover:text-blue-400">
             FAQ
           </Link>
           <Link to="/curarmate" className="hover:text-blue-400">
             Como curar el Mate
-          </Link>
-          <Link to="/accesorios" className="hover:text-blue-400">
-            Accesorios - Yerbas
           </Link>
         </div>
       )}

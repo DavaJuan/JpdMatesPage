@@ -1,37 +1,33 @@
 import Home from "./Components/Home/Home";
-import Catalogo from "./Components/Catalogo/Catalogo";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 import FAQ from "./Components/FAQ/FAQ";
 import CategoriasGrid from "./Components/CategoriasGrid/CategoriasGrid";
-import Bombillas from "./Components/BombillasPage/Bombillas";
-import Termos from "./Components/TermosPage/Termos";
-import Combos from "./Components/CombosPage/Combos";
-import MateDetail from "./Components/MateDetail/MateDetail";
 import Footer from "./Components/Footer/Footer";
-import Accesorios from "./Components/AccesoriosPage/Accesorios";
-import BombillaDetail from "./Components/BombillaDetail/BombillaDetail";
 import ProductDetail from "./Components/ProductDetail";
-import TermoDetail from "./Components/TermoDetail/TermoDetail";
 import ComoCurarTuMate from "./Components/Curado/ComoCurarTuMate";
+import ProductList from "./Components/ProductList";
+import Bombillas from "./Components/BombillasPage/Bombillas";
+import MatePage from "./Components/MatePage";
+import TermoPage from "./Components/TermoPage";
+import ComboPage from "./Components/ComboPage";
+import AccesorioPage from "./Components/AccesorioPage";
 
 const App = () => {
   return (
     <div>
       <Home />
       <Routes>
+        <Route path="/" element={<ProductList />} />
+        <Route path="/categorias" element={<CategoriasGrid />} />
         <Route path="/faq" element={<FAQ />} />
-        <Route path="/" element={<CategoriasGrid />} />
-        <Route path="/mates" element={<Catalogo />} />
-        <Route path="/bombillas" element={<Bombillas />} />
-        <Route path="/termos" element={<Termos />} />
-        <Route path="/combos" element={<Combos />} />
-        <Route path="/mate/:id" element={<MateDetail />} />
-        <Route path="/bombillas/:id" element={<BombillaDetail />} />
-        <Route path="/termos/:id" element={<TermoDetail />} />
-        <Route path="/accesorios" element={<Accesorios />} />
         <Route path="/curarmate" element={<ComoCurarTuMate />} />
         <Route path="/:tipo/:id" element={<ProductDetail />} />
+        <Route path="/bombilla" element={<Bombillas />} />
+        <Route path="/mate" element={<MatePage />} />
+        <Route path="/termo" element={<TermoPage />} />
+        <Route path="/combo" element={<ComboPage />} />
+        <Route path="/accesorio" element={<AccesorioPage />} />
       </Routes>
       <Footer />
     </div>

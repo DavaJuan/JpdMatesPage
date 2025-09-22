@@ -64,7 +64,7 @@ const SearchBar = ({ data }) => {
                 className="flex items-center gap-3 px-3 py-2 hover:bg-gray-100 cursor-pointer"
               >
                 <img
-                  src={item.imagen}
+                  src={item.imagenes[0]}
                   alt={item.nombre}
                   className="w-10 h-10 rounded-full object-cover"
                 />
