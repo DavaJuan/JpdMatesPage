@@ -29,7 +29,7 @@
   {
     "id": 4,
     "nombre": "Imperial Roma Algarrobo",
-    "precio": 32000,
+    "precio": 30000,
     "imagenes": ["/images-imp/imp-roma-alg.jpeg"],
     "descripcion": "Imperial Roma de algarrobo con guarda de alpaca y base completa con pelotitas de bronce.",
     "tipo": "mate"
@@ -251,8 +251,13 @@
   {
     "id": 28,
     "nombre": "Torpedo Animal Print",
-    "precio": 40000,
-    "imagenes": ["/images-torp/torp-print.jpeg"],
+    "precio": 32000,
+    "imagenes": [
+      "/images-torp/torp-print.jpeg",
+      "/images-torp/torp-print2.jpeg",
+      "/images-torp/torp-print3.jpeg",
+      "/images-torp/torp-print4.jpeg"
+    ],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero con animal print de pelitos. Virola de alpaca cincelada, excelente calidad.",
     "tipo": "mate"
   },
@@ -433,7 +438,11 @@
     "id": 49,
     "nombre": "Bombillon Pico de Loro",
     "precio": 30000,
-    "imagenes": ["/bombillas-img/bomb-pico.jpeg"],
+    "imagenes": [
+      "/bombillas-img/loro1.jpeg",
+      "/bombillas-img/loro2.jpeg",
+      "/bombillas-img/loro3.jpg"
+    ],
     "descripcion": "Bombillon de alpaca/bronce pico de loro. 18cm.",
     "tipo": "bombilla"
   },
@@ -453,7 +462,11 @@
     "id": 51,
     "nombre": "Bombillon Selección.",
     "precio": 27000,
-    "imagenes": ["/bombillas-img/seleccion.jpeg"],
+    "imagenes": [
+      "/bombillas-img/seleccion.jpg",
+      "/bombillas-img/seleccion2.jpg",
+      "/bombillas-img/seleccion3.jpg"
+    ],
     "descripcion": "Bombillon de alpaca/bronce de AFA con las 3 estrellas de la copa del mundo. Fecha 22,86,78.",
     "tipo": "bombilla"
   },
@@ -986,5 +999,21 @@
     ],
     "descripcion": "Bombillon de alpaca y pico de bronce. Con dije de clubes de futbol.",
     "tipo": "bombilla"
+  },
+  {
+    "id": 114,
+    "nombre": "Torpedo Base Completa Gajos Pelota",
+    "precio": 37000,
+    "imagenes": ["/images-torp/torp-gajos.jpeg"],
+    "descripcion": "Mate Torpedo con base completa y virola de alpaca, cuero con forma de gajos de pelota.",
+    "tipo": "mate"
+  },
+  {
+    "id": 115,
+    "nombre": "Torpedo Roma",
+    "precio": 30000,
+    "imagenes": ["/images-torp/torp-roma.jpeg"],
+    "descripcion": "Torpedo Roma de algarrobo, con base de alpaca y pelotitas de bronce.",
+    "tipo": "mate"
   }
 ]

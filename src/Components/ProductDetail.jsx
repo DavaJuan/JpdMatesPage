@@ -38,7 +38,7 @@ const ProductDetail = () => {
         <img
           src={product.imagenes[currentImage]}
           alt={`${product.nombre} ${currentImage + 1}`}
-          className="w-full h-[550px] object-cover rounded-xl shadow-md"
+          className="w-full max-h-[650px] object-contain md:object-cover rounded-xl shadow-md"
         />
 
         {/* Botones izquierda/derecha */}
