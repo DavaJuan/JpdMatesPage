@@ -13,7 +13,7 @@ const MatePage = () => {
 
   return (
     <div>
-      <div className="flex gap-2 mb-6 flex-wrap justify-center items-center pt-5">
+      <div className="flex gap-2 mb-6 flex-wrap justify-center items-center pt-8">
         <button
           onClick={() => setFiltroPorClase("todos")}
           className={`px-4 py-2 rounded-lg cursor-pointer sm:px-5 sm:py-3 lg:px-6 lg:py-4 text-sm lg:text-lg ${
@@ -64,7 +64,7 @@ const MatePage = () => {
         </button>
       </div>
 
-      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-8 p-10 ">
+      <div className="grid grid-cols-1 gap-2 lg:grid-cols-3 lg:gap-8 p-2 ">
         {matesFiltradosPorClase.map((mate) => (
           <Link
             to={`/mate/${mate.id}`}

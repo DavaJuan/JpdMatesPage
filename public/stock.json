@@ -960,7 +960,6 @@
     "id": 105,
     "nombre": "Combo FULL Matero",
     "precio": 39500,
-    "clase": "otro",
     "imagenes": ["/combos-img/combo-full.jpg"],
     "descripcion": "Combo FULL MATERO, todo lo que necesitas para tomar y llevar tu mate en un solo combo. Mochila/Bolso matero negro + Termo de acero 1L + Imperial con guarda de acero + yerbero y azucarero tipo chaulata + bombilla chata de acero inoxidable.",
     "tipo": "combo"
@@ -969,6 +968,7 @@
     "id": 106,
     "nombre": "Mate Termico - Varios Modelos",
     "precio": 8000,
+    "clase": "otro",
     "imagenes": [
       "/images-imp/termico1.jpeg",
       "/images-imp/termico2.jpeg",
