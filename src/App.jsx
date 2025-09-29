@@ -1,6 +1,5 @@
-import Home from "./Components/Home/Home";
 import { Routes, Route } from "react-router-dom";
-import "./App.css";
+import Home from "./Components/Home/Home";
 import FAQ from "./Components/FAQ/FAQ";
 import CategoriasGrid from "./Components/CategoriasGrid/CategoriasGrid";
 import Footer from "./Components/Footer/Footer";
@@ -13,6 +12,7 @@ import TermoPage from "./Components/TermoPage";
 import ComboPage from "./Components/ComboPage";
 import AccesorioPage from "./Components/AccesorioPage";
 import ScrollToTop from "./Components/ScrollToTop";
+import "./App.css";
 
 const App = () => {
   return (

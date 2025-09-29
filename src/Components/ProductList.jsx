@@ -7,7 +7,6 @@ const ProductList = () => {
   const [visibleCount, setVisibleCount] = useState(8);
 
   useEffect(() => {
-    // Hacemos una copia del array y lo mezclamos
     const shuffled = [...products].sort(() => Math.random() - 0.5);
     setShuffledProducts(shuffled);
   }, []);

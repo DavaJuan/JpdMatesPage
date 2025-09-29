@@ -3,6 +3,7 @@
     "id": 1,
     "nombre": "Imperial PVC",
     "precio": 10000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imperial-pvc.jpeg",
       "/images-imp/imperial-pvc2.jpeg"
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "nombre": "Imperial Algarrobo Bronce",
+    "clase": "imperial",
     "precio": 20500,
     "imagenes": ["/images-imp/algarrobo-bronce.jpeg"],
     "descripcion": "Mate Imperial 100% de algarrobo con guarda de bronce gruesa.",
@@ -21,6 +23,7 @@
   {
     "id": 3,
     "nombre": "Imperial Algarrobo Acero",
+    "clase": "imperial",
     "precio": 19990,
     "imagenes": ["/images-imp/alg-acero.jpeg", "/images-imp/alg-acero2.jpeg"],
     "descripcion": "Imperial de algarrobo con guarda de acero, base y boca anchas.",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "nombre": "Imperial Roma Algarrobo",
+    "clase": "imperial",
     "precio": 30000,
     "imagenes": ["/images-imp/imp-roma-alg.jpeg"],
     "descripcion": "Imperial Roma de algarrobo con guarda de alpaca y base completa con pelotitas de bronce.",
@@ -37,6 +41,7 @@
   {
     "id": 5,
     "nombre": "Imperial interior de Acero",
+    "clase": "imperial",
     "precio": 24000,
     "imagenes": [
       "/images-imp/imp-int-acero.jpeg",
@@ -50,6 +55,7 @@
     "id": 6,
     "nombre": "Imperial Clásico de Calabaza",
     "precio": 28000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-clasico.jpeg",
       "/images-imp/imp-clasico-m.jpeg"
@@ -61,6 +67,7 @@
     "id": 7,
     "nombre": "Imperial Roma",
     "precio": 38000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-roma-m.jpeg", "/images-imp/imp-roma.jpeg"],
     "descripcion": "Mate Imperial Roma de calabaza, recubiento por cuero cincelado, virola de alpaca y base de alpaca cincelada.",
     "tipo": "mate"
@@ -69,6 +76,7 @@
     "id": 8,
     "nombre": "Imperial guarda Cincelada",
     "precio": 29000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-guarca-cincelada.jpeg",
       "/images-imp/imp-guarca-cincelada-2.jpeg"
@@ -80,6 +88,7 @@
     "id": 9,
     "nombre": "Imperial color Suela",
     "precio": 34000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-suela.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza con virola de alpaca, bocha ancha y tamaño mediano.",
     "tipo": "mate"
@@ -88,6 +97,7 @@
     "id": 10,
     "nombre": "Imperial cuero Croco",
     "precio": 34000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-croco.jpeg", "/images-imp/imp-croco2.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza, con virola de alpaca y cuero croco. Colores disponibles: negro y marrón.",
     "tipo": "mate"
@@ -96,6 +106,7 @@
     "id": 11,
     "nombre": "Imperial color Natural",
     "precio": 38000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-alpca-suela.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza. Virola cincelada y base de alpaca. Color natural.",
     "tipo": "mate"
@@ -104,6 +115,7 @@
     "id": 12,
     "nombre": "Imperial virola de Bronce",
     "precio": 25000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-negro-bronce.jpeg",
       "/images-imp/imp-marron-bronce.jpeg"
@@ -115,6 +127,7 @@
     "id": 13,
     "nombre": "Imperial Animal Print",
     "precio": 30000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-animal-print.jpeg",
       "/images-imp/imp-animal-print-2.jpeg",
@@ -127,6 +140,7 @@
     "id": 14,
     "nombre": "Imperial Animal Print Acero",
     "precio": 25000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-animal-acero.jpeg"],
     "descripcion": "Mate Imperial con cuero Animal Print, interiro de acero inoxidable y con virola de alpaca.",
     "tipo": "mate"
@@ -135,6 +149,7 @@
     "id": 15,
     "nombre": "Imperial con base de Alpaca",
     "precio": 38000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-base-alpaca-negro.jpeg",
       "/images-imp/imp-base-alpaca-m.jpeg",
@@ -148,6 +163,7 @@
     "id": 16,
     "nombre": "Imperial con base de Alpaca y pelotitas",
     "precio": 38000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-base-y-pelotas.jpeg",
       "/images-imp/imp-base-y-pelotas1.jpeg",
@@ -160,6 +176,7 @@
     "id": 17,
     "nombre": "Imperial Criollo",
     "precio": 34000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-criollo.jpeg",
       "/images-imp/imp-criollo1.jpeg",
@@ -172,6 +189,7 @@
     "id": 18,
     "nombre": "Imperial Premium",
     "precio": 45000,
+    "clase": "imperial",
     "imagenes": ["/images-imp/imp-base-completa.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza, con base completa de alpaca y pelotas de bronce y virola de alpaca. Colores Marron y Negro.",
     "tipo": "mate"
@@ -180,6 +198,7 @@
     "id": 19,
     "nombre": "Torpedo guarda de Aluminio",
     "precio": 18000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-aluminio.jpeg"],
     "descripcion": "Torpedo 100% calabaza con virola de aluminio y cuerpo de recubierto de cuero.",
     "tipo": "mate"
@@ -188,6 +207,7 @@
     "id": 20,
     "nombre": "Torpedo Boca",
     "precio": 32000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-boca.jpeg"],
     "descripcion": "Torpedo 100% calabaza con virola de bronce cincelada y cuero pintado artesanalmente.",
     "tipo": "mate"
@@ -196,6 +216,7 @@
     "id": 21,
     "nombre": "Torpedo de Algarrobo brilloso",
     "precio": 23000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-algarrobo.jpg"],
     "descripcion": "Torpedo de algarrobo tipo copita, brilloso y con virola de alpaca cincelada.",
     "tipo": "mate"
@@ -204,6 +225,7 @@
     "id": 22,
     "nombre": "Torpedo con virola de Alpaca Cincelada",
     "precio": 32000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-cincelado.jpeg"],
     "descripcion": "Torpedo 100% calabaza con virola de alpaca cincelada. Color Negro o Marron.",
     "tipo": "mate"
@@ -212,6 +234,7 @@
     "id": 23,
     "nombre": "Torpedo Algarrobo Artesanal",
     "precio": 22000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-barnizado.jpeg"],
     "descripcion": "Torpedo de algarrobo barnizado con virola de alpaca cincelada artesanal.",
     "tipo": "mate"
@@ -220,6 +243,7 @@
     "id": 24,
     "nombre": "Torpedo Cuero Repujado",
     "precio": 38000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-repuj-negro.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Negro.",
     "tipo": "mate"
@@ -228,6 +252,7 @@
     "id": 25,
     "nombre": "Torpedo Cuero Liso",
     "precio": 40000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-repuj-marron.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Marron.",
     "tipo": "mate"
@@ -236,6 +261,7 @@
     "id": 26,
     "nombre": "Torpedo virola de Bronce",
     "precio": 30000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-bronce.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base de alpaca, pelotitas y virola de bronce. Color Negro.",
     "tipo": "mate"
@@ -244,6 +270,7 @@
     "id": 27,
     "nombre": "Torpedo Croco",
     "precio": 39800,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-croco.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca con pelotitas de bronce. Color Negro o Marron.",
     "tipo": "mate"
@@ -252,6 +279,7 @@
     "id": 28,
     "nombre": "Torpedo Animal Print",
     "precio": 32000,
+    "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-print.jpeg",
       "/images-torp/torp-print2.jpeg",
@@ -265,6 +293,7 @@
     "id": 29,
     "nombre": "Torpedo Animal Print Premium",
     "precio": 45000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-print-p.jpeg"],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero con animal print de pelitos. Virola de alpaca cincelada con aro de bronce y vase de alpaca con pelotitas de bronce.",
     "tipo": "mate"
@@ -273,6 +302,7 @@
     "id": 30,
     "nombre": "Torpedo Vaca",
     "precio": 40000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-vaca.jpeg"],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero vaquita y virola de alpaca cincelada.",
     "tipo": "mate"
@@ -281,6 +311,7 @@
     "id": 31,
     "nombre": "Torpedo Uruguayo",
     "precio": 31000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-uru.jpeg"],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero de alta calidad, con virola tipo uruguaya de alpaca brillosa. Colores Marron y Negro.",
     "tipo": "mate"
@@ -289,6 +320,7 @@
     "id": 32,
     "nombre": "Torpedo Criollo",
     "precio": 37000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-criollo.jpeg"],
     "descripcion": "Torpedo Criollo 100% calabaza con virola de alpaca y cuero repujado.",
     "tipo": "mate"
@@ -297,6 +329,7 @@
     "id": 33,
     "nombre": "Mate Ranchero",
     "precio": 28000,
+    "clase": "otro",
     "imagenes": [
       "/imagenes/ranchero.jpeg",
       "/imagenes/ranchero-2.jpeg",
@@ -309,6 +342,7 @@
     "id": 34,
     "nombre": "Mate Ranchero Rosa",
     "precio": 28000,
+    "clase": "otro",
     "imagenes": ["/images-cam/ranchero-rosa.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas rosas.",
     "tipo": "mate"
@@ -317,6 +351,7 @@
     "id": 35,
     "nombre": "Mate Ranchero Negro",
     "precio": 28000,
+    "clase": "otro",
     "imagenes": ["/images-cam/ranchero-negro.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas negras.",
     "tipo": "mate"
@@ -325,6 +360,7 @@
     "id": 36,
     "nombre": "Mate Ranchero Celeste",
     "precio": 28000,
+    "clase": "otro",
     "imagenes": ["/images-cam/ranchero-celeste.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas celeste.",
     "tipo": "mate"
@@ -333,6 +369,7 @@
     "id": 37,
     "nombre": "Mate Ranchero Marron",
     "precio": 28000,
+    "clase": "otro",
     "imagenes": ["/images-cam/ranchero-marron.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, full marron.",
     "tipo": "mate"
@@ -341,6 +378,7 @@
     "id": 38,
     "nombre": "Mate Ranchero para pintar",
     "precio": 16200,
+    "clase": "otro",
     "imagenes": ["/imagenes/ranchero-pintar.jpeg"],
     "descripcion": "Mate ranchero moldeado y listo para pintar, ideal para darle el diseño que más te guste.",
     "tipo": "mate"
@@ -349,6 +387,7 @@
     "id": 39,
     "nombre": "Mate Gotita",
     "precio": 8000,
+    "clase": "otro",
     "imagenes": ["/imagenes/gotita.jpeg"],
     "descripcion": "Mate Gotita, 100% de algarrobo, listo para pintar o dejarlo con su color natural.",
     "tipo": "mate"
@@ -357,6 +396,7 @@
     "id": 40,
     "nombre": "Camionero de Aluminio",
     "precio": 12500,
+    "clase": "camionero",
     "imagenes": ["/images-cam/cam-alum.jpeg"],
     "descripcion": "Mate Camionero de calabaza con virola de aluminio. Varios tamaños disponibles. Color Negro, Marron y Suela.",
     "tipo": "mate"
@@ -365,6 +405,7 @@
     "id": 41,
     "nombre": "Camionero Acero",
     "precio": 23400,
+    "clase": "camionero",
     "imagenes": ["/images-cam/cam-acero.jpeg"],
     "descripcion": "Mate Camionero de calabaza con virola de acero. Varios tamaños disponibles. Color Negro y Marron.",
     "tipo": "mate"
@@ -373,6 +414,7 @@
     "id": 42,
     "nombre": "Camionero Algarrobo Brilloso",
     "precio": 13000,
+    "clase": "camionero",
     "imagenes": ["/images-cam/cam-algarrobo.jpeg"],
     "descripcion": "Mate Camionero 100% Algarrobo, con virola de acero inoxidable.",
     "tipo": "mate"
@@ -381,6 +423,7 @@
     "id": 43,
     "nombre": "Camionero Full Calabaza",
     "precio": 13000,
+    "clase": "camionero",
     "imagenes": ["/images-cam/cam-calabaza.jpeg"],
     "descripcion": "Mate Camionero de calabaza con base redonda de alpaca.",
     "tipo": "mate"
@@ -389,6 +432,7 @@
     "id": 44,
     "nombre": "Camionero Criollo Laqueado",
     "precio": 26000,
+    "clase": "camionero",
     "imagenes": ["/images-cam/cam-criollo-bri.jpeg"],
     "descripcion": "Mate Camionero Criollo 100% calabaza laqueada y virola de acero.",
     "tipo": "mate"
@@ -397,6 +441,7 @@
     "id": 45,
     "nombre": "Imperial Pampa",
     "precio": 18000,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/pampa-n.jpeg",
       "/images-imp/pampa-b.jpeg",
@@ -409,6 +454,7 @@
     "id": 46,
     "nombre": "Imperial Pampa Chico",
     "precio": 16200,
+    "clase": "imperial",
     "imagenes": [
       "/images-imp/pampa-chico-1.jpeg",
       "/images-imp/pampa-chico-2.jpeg",
@@ -914,6 +960,7 @@
     "id": 105,
     "nombre": "Combo FULL Matero",
     "precio": 39500,
+    "clase": "otro",
     "imagenes": ["/combos-img/combo-full.jpg"],
     "descripcion": "Combo FULL MATERO, todo lo que necesitas para tomar y llevar tu mate en un solo combo. Mochila/Bolso matero negro + Termo de acero 1L + Imperial con guarda de acero + yerbero y azucarero tipo chaulata + bombilla chata de acero inoxidable.",
     "tipo": "combo"
@@ -939,6 +986,7 @@
     "id": 107,
     "nombre": "Mate Imperial Boca",
     "precio": 17500,
+    "clase": "imperial",
     "imagenes": ["/images-imp/pampa-boca.jpeg"],
     "descripcion": "Mate Imperial tipo Pampa, térmico con interior de pvc.",
     "tipo": "mate"
@@ -947,6 +995,7 @@
     "id": 108,
     "nombre": "Mate Imperial River",
     "precio": 17500,
+    "clase": "imperial",
     "imagenes": ["/images-imp/pampa-river.jpeg"],
     "descripcion": "Mate Imperial tipo Pampa, térmico con interior de pvc.",
     "tipo": "mate"
@@ -1004,6 +1053,7 @@
     "id": 114,
     "nombre": "Torpedo Base Completa Gajos Pelota",
     "precio": 37000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-gajos.jpeg"],
     "descripcion": "Mate Torpedo con base completa y virola de alpaca, cuero con forma de gajos de pelota.",
     "tipo": "mate"
@@ -1012,6 +1062,7 @@
     "id": 115,
     "nombre": "Torpedo Roma",
     "precio": 30000,
+    "clase": "torpedo",
     "imagenes": ["/images-torp/torp-roma.jpeg"],
     "descripcion": "Torpedo Roma de algarrobo, con base de alpaca y pelotitas de bronce.",
     "tipo": "mate"

@@ -1,7 +1,8 @@
-import { useParams, Link } from "react-router-dom";
-import { FaArrowLeft, FaChevronLeft, FaChevronRight } from "react-icons/fa";
+import { useParams } from "react-router-dom";
+import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { useState } from "react";
 import products from "../../public/stock.json";
+// import { useCart } from "./CartContext";
 
 const ProductDetail = () => {
   const { id, tipo } = useParams();
@@ -9,6 +10,7 @@ const ProductDetail = () => {
     (p) => p.id === parseInt(id) && p.tipo === tipo
   );
   const [currentImage, setCurrentImage] = useState(0);
+  // const { addToCart } = useCart();
 
   if (!product)
     return <p className="text-center p-4">Producto no encontrado</p>;
@@ -30,6 +32,10 @@ const ProductDetail = () => {
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
     message
   )}`;
+
+  // const handleAddCart = () => {
+  //   addToCart(product);
+  // };
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-2 gap-8">

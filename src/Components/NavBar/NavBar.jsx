@@ -1,17 +1,19 @@
 import { FiMenu } from "react-icons/fi";
-import { FaWhatsapp } from "react-icons/fa6";
+import { IoBagHandle } from "react-icons/io5";
 import { Link } from "react-router-dom";
 import { useState } from "react";
+// import Cart from "../Cart";
+// import { useCart } from "../CartContext";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
+  // const [isCartOpen, setIsCartOpen] = useState(false);
 
   const handleLinkClick = () => {
     setIsOpen(false);
   };
 
-  const whatsappUrl =
-    "https://wa.me/5491153754846?text=Hola!%20Quiero%20más%20info%20sobre%20el%20producto%20...!";
+  // const { cartItems } = useCart();
 
   return (
     <nav className="bg-zinc-900 text-white">
@@ -34,13 +36,12 @@ const Navbar = () => {
 
         {/* Carrito + botón hamburguesa */}
         <div className="flex items-center space-x-4">
-          <a
+          <button
             className="hover:text-blue-400 cursor-pointer"
-            target="_blank"
-            href={whatsappUrl}
+            onClick={() => alert("Proximamente...")}
           >
-            <FaWhatsapp className="w-6 h-6" />
-          </a>
+            <IoBagHandle className="w-6 h-6" />
+          </button>
           {/* Botón hamburguesa solo visible en mobile */}
           <button className="md:hidden" onClick={() => setIsOpen(!isOpen)}>
             <FiMenu className="w-6 h-6" />
@@ -81,6 +82,11 @@ const Navbar = () => {
           </Link>
         </div>
       )}
+      {/* <Cart
+        open={isCartOpen}
+        toggleCart={() => setIsCartOpen(false)}
+        cartItems={cartItems}
+      /> */}
     </nav>
   );
 };
