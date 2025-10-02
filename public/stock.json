@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Imperial PVC",
-    "precio": 10000,
+    "precio": "10.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imperial-pvc.jpeg",
@@ -15,7 +15,7 @@
     "id": 2,
     "nombre": "Imperial Algarrobo Bronce",
     "clase": "imperial",
-    "precio": 20500,
+    "precio": "20.500",
     "imagenes": [
       "/images-imp/algarrobo-bronce2.jpg",
       "/images-imp/algarrobo-bronce.jpeg"
@@ -27,7 +27,7 @@
     "id": 3,
     "nombre": "Imperial Algarrobo Acero",
     "clase": "imperial",
-    "precio": 19990,
+    "precio": "19.990",
     "imagenes": ["/images-imp/alg-acero.jpeg", "/images-imp/alg-acero2.jpeg"],
     "descripcion": "Imperial de algarrobo con guarda de acero, base y boca anchas.",
     "tipo": "mate"
@@ -36,7 +36,7 @@
     "id": 4,
     "nombre": "Imperial Roma Algarrobo",
     "clase": "imperial",
-    "precio": 30000,
+    "precio": "30.000",
     "imagenes": ["/images-imp/imp-roma-alg.jpeg"],
     "descripcion": "Imperial Roma de algarrobo con guarda de alpaca y base completa con pelotitas de bronce.",
     "tipo": "mate"
@@ -45,7 +45,7 @@
     "id": 5,
     "nombre": "Imperial interior de Acero",
     "clase": "imperial",
-    "precio": 24000,
+    "precio": "24.000",
     "imagenes": [
       "/images-imp/imp-int-acero.jpeg",
       "/images-imp/imp-int-acero-n.jpeg",
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "nombre": "Imperial Clásico de Calabaza",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-clasico.jpeg",
@@ -69,7 +69,7 @@
   {
     "id": 7,
     "nombre": "Imperial Roma",
-    "precio": 38000,
+    "precio": "38.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-roma-m.jpeg", "/images-imp/imp-roma.jpeg"],
     "descripcion": "Mate Imperial Roma de calabaza, recubiento por cuero cincelado, virola de alpaca y base de alpaca cincelada.",
@@ -78,7 +78,7 @@
   {
     "id": 8,
     "nombre": "Imperial guarda Cincelada",
-    "precio": 29000,
+    "precio": "29.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-guarca-cincelada.jpeg",
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "nombre": "Imperial color Suela",
-    "precio": 34000,
+    "precio": "34.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-suela.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza con virola de alpaca, bocha ancha y tamaño mediano.",
@@ -99,7 +99,7 @@
   {
     "id": 10,
     "nombre": "Imperial cuero Croco",
-    "precio": 34000,
+    "precio": "34.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-croco.jpeg", "/images-imp/imp-croco2.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza, con virola de alpaca y cuero croco. Colores disponibles: negro y marrón.",
@@ -108,7 +108,7 @@
   {
     "id": 11,
     "nombre": "Imperial color Natural",
-    "precio": 38000,
+    "precio": "38.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-alpca-suela.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza. Virola cincelada y base de alpaca. Color natural.",
@@ -117,7 +117,7 @@
   {
     "id": 12,
     "nombre": "Imperial virola de Bronce",
-    "precio": 25000,
+    "precio": "25.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-negro-bronce.jpeg",
@@ -129,7 +129,7 @@
   {
     "id": 13,
     "nombre": "Imperial Animal Print",
-    "precio": 30000,
+    "precio": "30.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-animal-print.jpeg",
@@ -142,7 +142,7 @@
   {
     "id": 14,
     "nombre": "Imperial Animal Print Acero",
-    "precio": 25000,
+    "precio": "25.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-animal-acero.jpeg"],
     "descripcion": "Mate Imperial con cuero Animal Print, interiro de acero inoxidable y con virola de alpaca.",
@@ -151,7 +151,7 @@
   {
     "id": 15,
     "nombre": "Imperial con base de Alpaca",
-    "precio": 38000,
+    "precio": "38.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-b-1.jpeg",
@@ -167,7 +167,7 @@
   {
     "id": 16,
     "nombre": "Imperial con base de Alpaca y pelotitas",
-    "precio": 38000,
+    "precio": "38.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-base-y-pelotas.jpeg",
@@ -180,7 +180,7 @@
   {
     "id": 17,
     "nombre": "Imperial Criollo",
-    "precio": 34000,
+    "precio": "34.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/imp-criollo.jpeg",
@@ -193,7 +193,7 @@
   {
     "id": 18,
     "nombre": "Imperial Premium",
-    "precio": 45000,
+    "precio": "45.000",
     "clase": "imperial",
     "imagenes": ["/images-imp/imp-base-completa.jpeg"],
     "descripcion": "Mate Imperial 100% calabaza, con base completa de alpaca y pelotas de bronce y virola de alpaca. Colores Marron y Negro.",
@@ -202,7 +202,7 @@
   {
     "id": 19,
     "nombre": "Torpedo guarda de Acero",
-    "precio": 18000,
+    "precio": "18.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-acero.jpg", "/images-torp/torp-acero2.jpg"],
     "descripcion": "Torpedo 100% calabaza con virola de acero y cuerpo de recubierto de cuero.",
@@ -211,7 +211,7 @@
   {
     "id": 20,
     "nombre": "Torpedo Boca",
-    "precio": 32000,
+    "precio": "32.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-boca.jpeg"],
     "descripcion": "Torpedo 100% calabaza con virola de bronce cincelada y cuero pintado artesanalmente.",
@@ -220,7 +220,7 @@
   {
     "id": 21,
     "nombre": "Torpedo de Algarrobo brilloso",
-    "precio": 23000,
+    "precio": "23.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-algarrobo.jpg"],
     "descripcion": "Torpedo de algarrobo tipo copita, brilloso y con virola de alpaca cincelada.",
@@ -229,7 +229,7 @@
   {
     "id": 22,
     "nombre": "Torpedo con virola de Alpaca Cincelada",
-    "precio": 32000,
+    "precio": "32.000",
     "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-cincelado.jpg",
@@ -242,7 +242,7 @@
   {
     "id": 23,
     "nombre": "Torpedo Algarrobo Artesanal",
-    "precio": 22000,
+    "precio": "22.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-barnizado.jpeg"],
     "descripcion": "Torpedo de algarrobo barnizado con virola de alpaca cincelada artesanal.",
@@ -251,7 +251,7 @@
   {
     "id": 24,
     "nombre": "Torpedo Cuero Repujado",
-    "precio": 38000,
+    "precio": "38.000",
     "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-repuj-negro.jpeg",
@@ -265,7 +265,7 @@
   {
     "id": 25,
     "nombre": "Torpedo Cuero Liso",
-    "precio": 40000,
+    "precio": "40.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-repuj-marron.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Marron.",
@@ -274,7 +274,7 @@
   {
     "id": 26,
     "nombre": "Torpedo virola de Bronce",
-    "precio": 30000,
+    "precio": "30.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-bronce.jpeg"],
     "descripcion": "Torpedo 100% calabaza con base de alpaca, pelotitas y virola de bronce. Color Negro.",
@@ -283,7 +283,7 @@
   {
     "id": 27,
     "nombre": "Torpedo Croco",
-    "precio": 39800,
+    "precio": "39.800",
     "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-croco2.jpeg",
@@ -295,7 +295,7 @@
   {
     "id": 28,
     "nombre": "Torpedo Animal Print",
-    "precio": 32000,
+    "precio": "32.000",
     "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-printt.jpg",
@@ -310,7 +310,7 @@
   {
     "id": 29,
     "nombre": "Torpedo Animal Print Premium",
-    "precio": 45000,
+    "precio": "45.000",
     "clase": "torpedo",
     "imagenes": [
       "/images-torp/torp-print-p.jpeg",
@@ -322,7 +322,7 @@
   {
     "id": 30,
     "nombre": "Torpedo Vaca",
-    "precio": 40000,
+    "precio": "40.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-vaca.jpeg"],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero vaquita y virola de alpaca cincelada.",
@@ -331,7 +331,7 @@
   {
     "id": 31,
     "nombre": "Torpedo Uruguayo",
-    "precio": 31000,
+    "precio": "31.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-uru.jpeg"],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero de alta calidad, con virola tipo uruguaya de alpaca brillosa. Colores Marron y Negro.",
@@ -340,7 +340,7 @@
   {
     "id": 32,
     "nombre": "Torpedo Criollo",
-    "precio": 37000,
+    "precio": "37.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-criollo.jpeg"],
     "descripcion": "Torpedo Criollo 100% calabaza con virola de alpaca y cuero repujado.",
@@ -349,7 +349,7 @@
   {
     "id": 33,
     "nombre": "Mate Ranchero",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "otro",
     "imagenes": [
       "/imagenes/ranchero.jpeg",
@@ -362,7 +362,7 @@
   {
     "id": 34,
     "nombre": "Mate Ranchero Rosa",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "otro",
     "imagenes": ["/images-cam/ranchero-rosa.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas rosas.",
@@ -371,7 +371,7 @@
   {
     "id": 35,
     "nombre": "Mate Ranchero Negro",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "otro",
     "imagenes": ["/images-cam/ranchero-negro.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas negras.",
@@ -380,7 +380,7 @@
   {
     "id": 36,
     "nombre": "Mate Ranchero Celeste",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "otro",
     "imagenes": ["/images-cam/ranchero-celeste.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, manchas celeste.",
@@ -389,7 +389,7 @@
   {
     "id": 37,
     "nombre": "Mate Ranchero Marron",
-    "precio": 28000,
+    "precio": "28.000",
     "clase": "otro",
     "imagenes": ["/images-cam/ranchero-marron.jpeg"],
     "descripcion": "Mate ranchero moldeado y pintado a mano, trabajo 100% artesanal, full marron.",
@@ -398,7 +398,7 @@
   {
     "id": 38,
     "nombre": "Mate Ranchero para pintar",
-    "precio": 16200,
+    "precio": "16.200",
     "clase": "otro",
     "imagenes": ["/imagenes/ranchero-pintar.jpeg"],
     "descripcion": "Mate ranchero moldeado y listo para pintar, ideal para darle el diseño que más te guste.",
@@ -407,7 +407,7 @@
   {
     "id": 39,
     "nombre": "Mate Gotita",
-    "precio": 8000,
+    "precio": "8.000",
     "clase": "otro",
     "imagenes": ["/imagenes/gotita.jpeg"],
     "descripcion": "Mate Gotita, 100% de algarrobo, listo para pintar o dejarlo con su color natural.",
@@ -416,7 +416,7 @@
   {
     "id": 40,
     "nombre": "Camionero de Aluminio",
-    "precio": 12500,
+    "precio": "12.500",
     "clase": "camionero",
     "imagenes": [
       "/images-cam/cam-alum2.jpeg",
@@ -429,7 +429,7 @@
   {
     "id": 41,
     "nombre": "Camionero Acero",
-    "precio": 23400,
+    "precio": "23.400",
     "clase": "camionero",
     "imagenes": ["/images-cam/cam-acero.jpeg"],
     "descripcion": "Mate Camionero de calabaza con virola de acero. Varios tamaños disponibles. Color Negro y Marron.",
@@ -438,7 +438,7 @@
   {
     "id": 42,
     "nombre": "Camionero Algarrobo Brilloso",
-    "precio": 13000,
+    "precio": "13.000",
     "clase": "camionero",
     "imagenes": ["/images-cam/cam-algarrobo.jpeg"],
     "descripcion": "Mate Camionero 100% Algarrobo, con virola de acero inoxidable.",
@@ -447,7 +447,7 @@
   {
     "id": 43,
     "nombre": "Camionero Full Calabaza",
-    "precio": 13000,
+    "precio": "13.000",
     "clase": "camionero",
     "imagenes": ["/images-cam/cam-calabaza.jpeg"],
     "descripcion": "Mate Camionero de calabaza con base redonda de alpaca.",
@@ -456,7 +456,7 @@
   {
     "id": 44,
     "nombre": "Camionero Criollo Laqueado",
-    "precio": 26000,
+    "precio": "26.000",
     "clase": "camionero",
     "imagenes": [
       "/images-cam/cam-criollo-bri.jpeg",
@@ -469,7 +469,7 @@
   {
     "id": 45,
     "nombre": "Imperial Pampa",
-    "precio": 18000,
+    "precio": "18.000",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/pampa-n.jpeg",
@@ -482,7 +482,7 @@
   {
     "id": 46,
     "nombre": "Imperial Pampa Chico",
-    "precio": 16200,
+    "precio": "16.200",
     "clase": "imperial",
     "imagenes": [
       "/images-imp/pampa-chico-1.jpeg",
@@ -496,7 +496,7 @@
   {
     "id": 47,
     "nombre": "Bombillon Recto MINI 15cm",
-    "precio": 26000,
+    "precio": "26.000",
     "imagenes": ["/bombillas-img/mini.jpeg"],
     "descripcion": "Bombillon MINI de alpaca con pico recto de bronce, caño labrado con 2 dijes de alpaca/bronce.",
     "tipo": "bombilla"
@@ -504,7 +504,7 @@
   {
     "id": 48,
     "nombre": "Bombillon Pico de Loro MINI 15cm",
-    "precio": 26000,
+    "precio": "26.000",
     "imagenes": ["/bombillas-img/mini2.jpeg"],
     "descripcion": "Bombillon MINI de alpaca con pico de loro de bronce, caño labrado con 2 dijes de alpaca/bronce.",
     "tipo": "bombilla"
@@ -512,7 +512,7 @@
   {
     "id": 49,
     "nombre": "Bombillon Pico de Loro",
-    "precio": 30000,
+    "precio": "30.000",
     "imagenes": [
       "/bombillas-img/loro1.jpeg",
       "/bombillas-img/loro2.jpeg",
@@ -524,7 +524,7 @@
   {
     "id": 50,
     "nombre": "Bombillon Pico Recto",
-    "precio": 30000,
+    "precio": "30.000",
     "imagenes": [
       "/bombillas-img/bomb-recto.jpg",
       "/bombillas-img/bomb-recto2.jpg",
@@ -536,7 +536,7 @@
   {
     "id": 51,
     "nombre": "Bombillon Selección.",
-    "precio": 27000,
+    "precio": "27.000",
     "imagenes": [
       "/bombillas-img/seleccion.jpg",
       "/bombillas-img/seleccion2.jpg",
@@ -549,7 +549,7 @@
   {
     "id": 52,
     "nombre": "Bombillon Caño Labrado",
-    "precio": 20000,
+    "precio": "20.000",
     "imagenes": ["/bombillas-img/bomb-labrado.jpeg"],
     "descripcion": "Bombillon de alpaca/bronce con caño labrado, pico de loro.",
     "tipo": "bombilla"
@@ -557,7 +557,7 @@
   {
     "id": 53,
     "nombre": "Bombillon Rey Corona",
-    "precio": 30000,
+    "precio": "30.000",
     "imagenes": ["/bombillas-img/corona.jpeg"],
     "descripcion": "Bombillon de alpaca/bronce con caño labrado, pico de rey corona.",
     "tipo": "bombilla"
@@ -565,7 +565,7 @@
   {
     "id": 54,
     "nombre": "Bombillon Caño Abstracto o Pampa",
-    "precio": 23000,
+    "precio": "23.000",
     "imagenes": [
       "/bombillas-img/bombillon-dibujado.jpeg",
       "/bombillas-img/bombillon-dibujado2.jpeg",
@@ -577,7 +577,7 @@
   {
     "id": 55,
     "nombre": "Bombilla Chata",
-    "precio": 3000,
+    "precio": "3.000",
     "imagenes": ["/bombillas-img/chata.jpeg"],
     "descripcion": "Bombilla de pico curva, acero inoxidable con dije de bronce.",
     "tipo": "bombilla"
@@ -585,7 +585,7 @@
   {
     "id": 56,
     "nombre": "Bombilla Chata Copa del Mundo",
-    "precio": 4000,
+    "precio": "4.000",
     "imagenes": ["/bombillas-img/chata-mundo.jpeg"],
     "descripcion": "Bombilla de pico curva, acero inoxidable con dije de bronce. Grabado de la copa del mundo con fechas.",
     "tipo": "bombilla"
@@ -593,7 +593,7 @@
   {
     "id": 57,
     "nombre": "Bombilla Filtro Removible",
-    "precio": 4500,
+    "precio": "4.500",
     "imagenes": ["/bombillas-img/removible.jpeg"],
     "descripcion": "Bombilla con filtro removible a rosca, de acero inoxidable con anillo de bronce.",
     "tipo": "bombilla"
@@ -601,7 +601,7 @@
   {
     "id": 58,
     "nombre": "Bombilla chaca pico curvo",
-    "precio": 4500,
+    "precio": "4.500",
     "imagenes": ["/bombillas-img/chata-curvo.jpeg"],
     "descripcion": "Bombilla curva con filtro chato de acero inoxidable y dije de bronce.",
     "tipo": "bombilla"
@@ -609,7 +609,7 @@
   {
     "id": 59,
     "nombre": "Bombilla Acero/Bronce",
-    "precio": 5000,
+    "precio": "5.000",
     "imagenes": ["/bombillas-img/pico-bronce.jpeg"],
     "descripcion": "Bombilla Pico de loro con caño de acero inoxidable y pico de bronce.",
     "tipo": "bombilla"
@@ -617,7 +617,7 @@
   {
     "id": 60,
     "nombre": "Bombilla Pico de Loro",
-    "precio": 5000,
+    "precio": "5.000",
     "imagenes": ["/bombillas-img/pico-loro.jpeg"],
     "descripcion": "Bombilla Pico de loro de acero inoxidable.",
     "tipo": "bombilla"
@@ -625,7 +625,7 @@
   {
     "id": 61,
     "nombre": "Bombilla Pico de Loro Alpaca",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": ["/bombillas-img/loro-alpaca.jpeg"],
     "descripcion": "Bombilla Pico de loro de alpaca con caño cincelado.",
     "tipo": "bombilla"
@@ -633,7 +633,7 @@
   {
     "id": 62,
     "nombre": "Bombillon curvo de Alpaca",
-    "precio": 25000,
+    "precio": "25.000",
     "imagenes": ["/bombillas-img/curvo.jpeg"],
     "descripcion": "Bombillon 100% de alpaca gruesa, con pico super curvo y pala ancha, ideal para Canarias.",
     "tipo": "bombilla"
@@ -641,7 +641,7 @@
   {
     "id": 63,
     "nombre": "Termo Media Manija NEGRO",
-    "precio": 23000,
+    "precio": "23.000",
     "imagenes": ["/termos-img/negro.jpeg"],
     "descripcion": "Termo Media Manija full negro. 1 litro.",
     "tipo": "termo"
@@ -649,7 +649,7 @@
   {
     "id": 64,
     "nombre": "Termo Bala",
-    "precio": 22000,
+    "precio": "22.000",
     "imagenes": ["/termos-img/bala.jpeg"],
     "descripcion": "Termo bala de acero. 1 litro.",
     "tipo": "termo"
@@ -657,7 +657,7 @@
   {
     "id": 65,
     "nombre": "Termo Luminox-Lumilagro",
-    "precio": 50000,
+    "precio": "50.000",
     "imagenes": ["/termos-img/lumilagro.jpeg"],
     "descripcion": "Termo Original Limunox-Lumilagro de 1 litro, con pico cebador.",
     "tipo": "termo"
@@ -665,7 +665,7 @@
   {
     "id": 66,
     "nombre": "Termo Media Manija Grabado CLUBES",
-    "precio": 28000,
+    "precio": "28.000",
     "imagenes": [
       "/termos-img/grabado.jpeg",
       "/termos-img/grabado3.jpeg",
@@ -684,7 +684,7 @@
   {
     "id": 67,
     "nombre": "Vaso Quencher 1,2",
-    "precio": 25000,
+    "precio": "25.000",
     "imagenes": ["/termos-img/quencher.jpeg", "/termos-img/quencher2.jpeg"],
     "descripcion": "Vaso Quencher de 1,2 litos, con doble capa de acero termico.",
     "tipo": "accesorio"
@@ -692,7 +692,7 @@
   {
     "id": 68,
     "nombre": "Termo media manija BOCA y RIVER 1L",
-    "precio": 25000,
+    "precio": "25.000",
     "imagenes": ["/termos-img/grabado2.jpeg", "/termos-img/grabado12.jpeg"],
     "descripcion": "Termo media manija con pico cebador, grabado con clubes de futbol (Boca, River, Racing, Velez, Independiente, AFA, etc.)",
     "tipo": "termo"
@@ -700,7 +700,7 @@
   {
     "id": 69,
     "nombre": "Termo System 1L Negro y Cobre",
-    "precio": 30000,
+    "precio": "30.000",
     "imagenes": ["/termos-img/system.jpeg", "/termos-img/system2.jpeg"],
     "descripcion": "Termo System de 1L, con pico cebador de alta precision y tapamate.",
     "tipo": "termo"
@@ -708,7 +708,7 @@
   {
     "id": 70,
     "nombre": "Kit Viajero",
-    "precio": 25000,
+    "precio": "25.000",
     "imagenes": ["/combos-img/viajero.jpeg", "/combos-img/viajero2.jpeg"],
     "descripcion": "Kit viajero negro y rosa, con bolso matero clásico + yerbero + azucarero + mate térmico vasito + bombilla chata.",
     "tipo": "combo"
@@ -716,7 +716,7 @@
   {
     "id": 71,
     "nombre": "Combo Set Matero",
-    "precio": 58000,
+    "precio": "58.000",
     "imagenes": ["/combos-img/full.jpg"],
     "descripcion": "Set Matero completo, matera negra + termo acero 1l + imperial con virola de acero + yerbero + azucarero + bombilla chata.",
     "tipo": "combo"
@@ -724,7 +724,7 @@
   {
     "id": 72,
     "nombre": "Combo Algarrobo",
-    "precio": 31000,
+    "precio": "31.000",
     "imagenes": ["/combos-img/alg.jpeg"],
     "descripcion": "Combo matero, camionero de algarrobo + bombilla chata + canata eco-cuero + yerbero + azucarero.",
     "tipo": "combo"
@@ -732,7 +732,7 @@
   {
     "id": 73,
     "nombre": "Combo Imperial Alpaca",
-    "precio": 45000,
+    "precio": "45.000",
     "imagenes": ["/combos-img/alpaca.jpeg"],
     "descripcion": "Combo matero, Imperial de alpaca + canasta eco-cuero + chaulata + bombilla chata.",
     "tipo": "combo"
@@ -740,7 +740,7 @@
   {
     "id": 74,
     "nombre": "Matera Mango Recto",
-    "precio": 15000,
+    "precio": "15.000",
     "imagenes": ["/accesorios-img/recta.jpeg"],
     "descripcion": "Canasta Matera con mango rígido, con piso reforzado de excelente calidad.",
     "tipo": "accesorio"
@@ -748,7 +748,7 @@
   {
     "id": 75,
     "nombre": "Matera de Eco-Cuero",
-    "precio": 16000,
+    "precio": "16.000",
     "imagenes": ["/accesorios-img/eco.jpeg"],
     "descripcion": "Canasta Matera de ecocuero con piso reforzado y separador en el medio.",
     "tipo": "accesorio"
@@ -756,7 +756,7 @@
   {
     "id": 76,
     "nombre": "Matera de Cuero",
-    "precio": 28000,
+    "precio": "28.000",
     "imagenes": ["/accesorios-img/cuero.jpeg"],
     "descripcion": "Canasta Matera 100% de cuero super reforzada. Varios colores disponibles.",
     "tipo": "accesorio"
@@ -764,7 +764,7 @@
   {
     "id": 77,
     "nombre": "Porta Mate Eco-Cuero",
-    "precio": 7000,
+    "precio": "7.000",
     "imagenes": ["/accesorios-img/portaMate.jpg"],
     "descripcion": "Porta Mate de cuerina con doble costura y doble remache. Ideal para el auto.",
     "tipo": "accesorio"
@@ -772,7 +772,7 @@
   {
     "id": 78,
     "nombre": "Porta Mate Cuero",
-    "precio": 14000,
+    "precio": "14.000",
     "imagenes": ["/accesorios-img/portaCuero.jpeg"],
     "descripcion": "Porta Mate 100% Cuero con doble costura y doble remache. Ideal para el auto. Varios colores disponibles.",
     "tipo": "accesorio"
@@ -780,7 +780,7 @@
   {
     "id": 79,
     "nombre": "Yerba Verdecita 500g",
-    "precio": 4800,
+    "precio": "4.800",
     "imagenes": ["/yerbas/verdecita-500.jpeg"],
     "descripcion": "Yerba Verdecita de 500g.",
     "tipo": "accesorio"
@@ -788,7 +788,7 @@
   {
     "id": 80,
     "nombre": "Yerba Verdecita 1K",
-    "precio": 7600,
+    "precio": "7.600",
     "imagenes": ["/yerbas/verdecita-1k.jpeg"],
     "descripcion": "Yerba Verdecita de 1K.",
     "tipo": "accesorio"
@@ -796,7 +796,7 @@
   {
     "id": 81,
     "nombre": "Yerba Rei Verde Premium 500g",
-    "precio": 5800,
+    "precio": "5.800",
     "imagenes": ["/yerbas/rei-export-500.jpeg"],
     "descripcion": "Yerba Rei Verde Premium 500g",
     "tipo": "accesorio"
@@ -804,7 +804,7 @@
   {
     "id": 82,
     "nombre": "Yerba Rei Verde Premium 1K",
-    "precio": 9800,
+    "precio": "9.800",
     "imagenes": ["/yerbas/rei-export-1k.jpeg"],
     "descripcion": "Yerba Rei Verde Premium 1K",
     "tipo": "accesorio"
@@ -812,7 +812,7 @@
   {
     "id": 83,
     "nombre": "Yerba Pindare 500g",
-    "precio": 4900,
+    "precio": "4.900",
     "imagenes": ["/yerbas/pindare-500.jpeg"],
     "descripcion": "Yerba Pindare 500g",
     "tipo": "accesorio"
@@ -820,7 +820,7 @@
   {
     "id": 84,
     "nombre": "Yerba Pindare 1K",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": ["/yerbas/pindare-1k.jpeg"],
     "descripcion": "Yerba Pindare 1k.",
     "tipo": "accesorio"
@@ -828,7 +828,7 @@
   {
     "id": 85,
     "nombre": "Yerba Rei Verde Tradicional 500g",
-    "precio": 5200,
+    "precio": "5.200",
     "imagenes": ["/yerbas/rei-tra.jpeg"],
     "descripcion": "Yerba Rei Verde Tradicional 500g.",
     "tipo": "accesorio"
@@ -836,7 +836,7 @@
   {
     "id": 86,
     "nombre": "Yerba Rei Verde Tradicional 1K",
-    "precio": 8300,
+    "precio": "8.300",
     "imagenes": ["/yerbas/rei-tra-1k.jpeg"],
     "descripcion": "Yerba Rei Verde Tradicional 1K.",
     "tipo": "accesorio"
@@ -844,7 +844,7 @@
   {
     "id": 87,
     "nombre": "Yerba Baldo 500g",
-    "precio": 6600,
+    "precio": "6.600",
     "imagenes": ["/yerbas/baldo-500.jpeg"],
     "descripcion": "Yerba Baldo 500g.",
     "tipo": "accesorio"
@@ -852,7 +852,7 @@
   {
     "id": 88,
     "nombre": "Yerba Baldo 1K",
-    "precio": 10700,
+    "precio": "10.700",
     "imagenes": ["/yerbas/baldo-1k.jpeg"],
     "descripcion": "Yerba Baldo 1K.",
     "tipo": "accesorio"
@@ -860,7 +860,7 @@
   {
     "id": 89,
     "nombre": "Yerba Baldo 5K",
-    "precio": 46500,
+    "precio": "46.500",
     "imagenes": ["/yerbas/baldo-5k.jpeg"],
     "descripcion": "Yerba Baldo 5K.",
     "tipo": "accesorio"
@@ -868,7 +868,7 @@
   {
     "id": 90,
     "nombre": "Yerba Canarias Serena 500g",
-    "precio": 6500,
+    "precio": "6.500",
     "imagenes": ["/yerbas/serena-500.jpeg"],
     "descripcion": "Yerba Canarias Serena 500g.",
     "tipo": "accesorio"
@@ -876,7 +876,7 @@
   {
     "id": 91,
     "nombre": "Yerba Canarias Serena 1K",
-    "precio": 10800,
+    "precio": "10.800",
     "imagenes": ["/yerbas/serena-1k.jpeg"],
     "descripcion": "Yerba Canarias Serena 1K.",
     "tipo": "accesorio"
@@ -884,7 +884,7 @@
   {
     "id": 92,
     "nombre": "Yerba Canarias Te Verde y Jengibre 500g",
-    "precio": 6700,
+    "precio": "6.700",
     "imagenes": ["/yerbas/te-verde-500.jpeg"],
     "descripcion": "Yerba Canarias Te Verde y Jengibre 500g",
     "tipo": "accesorio"
@@ -892,7 +892,7 @@
   {
     "id": 93,
     "nombre": "Yerba Canarias Edición Especial 500g",
-    "precio": 6600,
+    "precio": "6.600",
     "imagenes": ["/yerbas/especial-500.jpeg"],
     "descripcion": "Yerba Canarias Edición Especial 500g",
     "tipo": "accesorio"
@@ -900,7 +900,7 @@
   {
     "id": 94,
     "nombre": "Yerba Canarias Tradicional 500g",
-    "precio": 6100,
+    "precio": "6.100",
     "imagenes": ["/yerbas/tradicional-500.jpeg"],
     "descripcion": "Yerba Canarias Tradicional 500g",
     "tipo": "accesorio"
@@ -908,7 +908,7 @@
   {
     "id": 95,
     "nombre": "Yerba Canarias Tradicional 1K",
-    "precio": 10000,
+    "precio": "10.000",
     "imagenes": ["/yerbas/tradicional-1k.jpeg"],
     "descripcion": "Yerba Canarias Tradicional 1K",
     "tipo": "accesorio"
@@ -916,7 +916,7 @@
   {
     "id": 96,
     "nombre": "Chaulata",
-    "precio": 7000,
+    "precio": "7.000",
     "imagenes": ["/accesorios-img/chauLata.jpeg"],
     "descripcion": "Chaulata x2 yerbero + azucarero. Varios colores disponibles.",
     "tipo": "accesorio"
@@ -924,7 +924,7 @@
   {
     "id": 97,
     "nombre": "Latas Matero",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": ["/accesorios-img/matero.jpeg"],
     "descripcion": "Latas Matero, yerbero y azucarero. Varios colores disponibles.",
     "tipo": "accesorio"
@@ -932,7 +932,7 @@
   {
     "id": 98,
     "nombre": "Vaso Fernetero",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": ["/accesorios-img/fernetero.jpeg"],
     "descripcion": "Vaso Fernetero 1L color negro LISO.",
     "tipo": "accesorio"
@@ -940,7 +940,7 @@
   {
     "id": 99,
     "nombre": "Vaso Fernetero Grabado",
-    "precio": 10000,
+    "precio": "10.000",
     "imagenes": ["/accesorios-img/fer-grabado.jpeg"],
     "descripcion": "Vaso Fernetero 1L color negro GRABADO. Varios grabados disponibles.",
     "tipo": "accesorio"
@@ -948,7 +948,7 @@
   {
     "id": 100,
     "nombre": "Tapa Mate Sol de Mayo",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": ["/accesorios-img/sol.jpeg"],
     "descripcion": "Tapa Mate de acero con grabado del Sol de Mayo.",
     "tipo": "accesorio"
@@ -956,7 +956,7 @@
   {
     "id": 101,
     "nombre": "Tapa Mate Alpaca Cincelada",
-    "precio": 11000,
+    "precio": "11.000",
     "imagenes": ["/accesorios-img/tapa.jpeg"],
     "descripcion": "Tapa Mate de alpaca cincelada.",
     "tipo": "accesorio"
@@ -964,7 +964,7 @@
   {
     "id": 102,
     "nombre": "Luz Mate",
-    "precio": 5000,
+    "precio": "5.000",
     "imagenes": ["/accesorios-img/luz.jpeg", "/accesorios-img/luz2.jpeg"],
     "descripcion": "Luz Mate, ideal para mates en lugares con poca luz y mantener la preciosion al cebar.",
     "tipo": "accesorio"
@@ -972,7 +972,7 @@
   {
     "id": 103,
     "nombre": "Combo River Plate",
-    "precio": 26000,
+    "precio": "26.000",
     "imagenes": ["/combos-img/combo-river.jpeg"],
     "descripcion": "Combo RIVER PLATE más mate camionero con sú virola grabada con escudos de River, caja de prensentacion con escudo de River y bombilla chata grabada con el escudo de River.",
     "tipo": "combo"
@@ -980,7 +980,7 @@
   {
     "id": 104,
     "nombre": "Combo Boca Juniors",
-    "precio": 26000,
+    "precio": "26.000",
     "imagenes": ["/combos-img/combo-boca.jpeg"],
     "descripcion": "Combo BOCA JUNIORS más mate camionero con sú virola grabada con escudos de Boca, caja de prensentacion con escudo de Boca y bombilla chata grabada con el escudo de Boca.",
     "tipo": "combo"
@@ -988,7 +988,7 @@
   {
     "id": 105,
     "nombre": "Combo FULL Matero",
-    "precio": 39500,
+    "precio": "39.500",
     "imagenes": ["/combos-img/combo-full.jpg"],
     "descripcion": "Combo FULL MATERO, todo lo que necesitas para tomar y llevar tu mate en un solo combo. Mochila/Bolso matero negro + Termo de acero 1L + Imperial con guarda de acero + yerbero y azucarero tipo chaulata + bombilla chata de acero inoxidable.",
     "tipo": "combo"
@@ -996,7 +996,7 @@
   {
     "id": 106,
     "nombre": "Mate Termico - Varios Modelos",
-    "precio": 8000,
+    "precio": "8.000",
     "clase": "otro",
     "imagenes": [
       "/images-imp/termico1.jpeg",
@@ -1014,7 +1014,7 @@
   {
     "id": 107,
     "nombre": "Mate Imperial Boca",
-    "precio": 17500,
+    "precio": "17.500",
     "clase": "imperial",
     "imagenes": ["/images-imp/pampa-boca.jpeg"],
     "descripcion": "Mate Imperial tipo Pampa, térmico con interior de pvc.",
@@ -1023,7 +1023,7 @@
   {
     "id": 108,
     "nombre": "Mate Imperial River",
-    "precio": 17500,
+    "precio": "17.500",
     "clase": "imperial",
     "imagenes": ["/images-imp/pampa-river.jpeg"],
     "descripcion": "Mate Imperial tipo Pampa, térmico con interior de pvc.",
@@ -1032,7 +1032,7 @@
   {
     "id": 109,
     "nombre": "Vaso Térmico 1L",
-    "precio": 22000,
+    "precio": "22.000",
     "imagenes": ["/imagenes/accesorio.jpeg"],
     "descripcion": "Vaso Térmico de 1L con manija y pico antivuelcos, colores surtidos.",
     "tipo": "accesorio"
@@ -1040,7 +1040,7 @@
   {
     "id": 110,
     "nombre": "Vaso Térmico 500ml",
-    "precio": 15000,
+    "precio": "15.000",
     "imagenes": ["/imagenes/vasos.jpeg"],
     "descripcion": "Vaso Térmico de 500ml, con interior de acero inoxidable y cierre hermetico. Colores surtidos.",
     "tipo": "accesorio"
@@ -1048,7 +1048,7 @@
   {
     "id": 111,
     "nombre": "Vaso de Café",
-    "precio": 8000,
+    "precio": "8.000",
     "imagenes": [
       "/imagenes/vaso-cafe.jpeg",
       "/imagenes/vaso-cafe-1.jpeg",
@@ -1060,7 +1060,7 @@
   {
     "id": 112,
     "nombre": "Mate Listo",
-    "precio": 18000,
+    "precio": "18.000",
     "imagenes": ["/imagenes/mate-listo.jpeg"],
     "descripcion": "Mate Listo autocebante de 750CC, con doble capa de acero y agarre de goma. Colores sutidos.",
     "tipo": "accesorio"
@@ -1068,7 +1068,7 @@
   {
     "id": 113,
     "nombre": "Bombillon Clubes de Futbol",
-    "precio": 25000,
+    "precio": "25.000",
     "imagenes": [
       "/bombillas-img/bf-1.jpeg",
       "/bombillas-img/bf-2.jpeg",
@@ -1081,7 +1081,7 @@
   {
     "id": 114,
     "nombre": "Torpedo Base Completa Gajos Pelota",
-    "precio": 37000,
+    "precio": "37.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-gajos.jpeg"],
     "descripcion": "Mate Torpedo con base completa y virola de alpaca, cuero con forma de gajos de pelota.",
@@ -1090,7 +1090,7 @@
   {
     "id": 115,
     "nombre": "Torpedo Roma",
-    "precio": 30000,
+    "precio": "30.000",
     "clase": "torpedo",
     "imagenes": ["/images-torp/torp-roma.jpeg"],
     "descripcion": "Torpedo Roma de algarrobo, con base de alpaca y pelotitas de bronce.",
