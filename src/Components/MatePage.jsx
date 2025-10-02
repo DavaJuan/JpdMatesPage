@@ -25,24 +25,24 @@ const MatePage = () => {
           Todos
         </button>
         <button
-          onClick={() => setFiltroPorClase("imperial")}
-          className={`px-4 py-2 rounded-lg cursor-pointer sm:px-5 sm:py-3 lg:px-6 lg:py-4 text-sm lg:text-lg ${
-            filtroPorClase === "imperial"
-              ? "bg-zinc-900 text-white"
-              : "bg-gray-200"
-          }`}
-        >
-          Imperiales
-        </button>
-        <button
           onClick={() => setFiltroPorClase("torpedo")}
-          className={`px-4 py-2 rounded-lg cursor-pointer sm:px-5 sm:py-3 lg:px-6 lg:py-4 text-sm lg:text-lg  ${
+          className={`px-4 py-2 rounded-lg cursor-pointer sm:px-5 sm:py-3 lg:px-6 lg:py-4 text-sm lg:text-lg ${
             filtroPorClase === "torpedo"
               ? "bg-zinc-900 text-white"
               : "bg-gray-200"
           }`}
         >
           Torpedos
+        </button>
+        <button
+          onClick={() => setFiltroPorClase("imperial")}
+          className={`px-4 py-2 rounded-lg cursor-pointer sm:px-5 sm:py-3 lg:px-6 lg:py-4 text-sm lg:text-lg  ${
+            filtroPorClase === "imperial"
+              ? "bg-zinc-900 text-white"
+              : "bg-gray-200"
+          }`}
+        >
+          Imperiales
         </button>
         <button
           onClick={() => setFiltroPorClase("camionero")}

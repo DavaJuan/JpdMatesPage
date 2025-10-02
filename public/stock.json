@@ -917,7 +917,10 @@
     "id": 96,
     "nombre": "Chaulata",
     "precio": "7.000",
-    "imagenes": ["/accesorios-img/chauLata.jpeg"],
+    "imagenes": [
+      "/accesorios-img/chauLata.jpeg",
+      "/accesorios-img/chauLata2.jpeg"
+    ],
     "descripcion": "Chaulata x2 yerbero + azucarero. Varios colores disponibles.",
     "tipo": "accesorio"
   },
@@ -925,7 +928,14 @@
     "id": 97,
     "nombre": "Latas Matero",
     "precio": "8.000",
-    "imagenes": ["/accesorios-img/matero.jpeg"],
+    "imagenes": [
+      "/accesorios-img/matero.jpeg",
+      "/accesorios-img/matero2.jpeg",
+      "/accesorios-img/matero3.jpeg",
+      "/accesorios-img/matero4.jpeg",
+      "/accesorios-img/matero5.jpeg",
+      "/accesorios-img/matero6.jpeg"
+    ],
     "descripcion": "Latas Matero, yerbero y azucarero. Varios colores disponibles.",
     "tipo": "accesorio"
   },
@@ -1095,5 +1105,58 @@
     "imagenes": ["/images-torp/torp-roma.jpeg"],
     "descripcion": "Torpedo Roma de algarrobo, con base de alpaca y pelotitas de bronce.",
     "tipo": "mate"
+  },
+  {
+    "id": 116,
+    "nombre": "Imperial Vaquita",
+    "precio": "35.300",
+    "clase": "imperial",
+    "imagenes": ["/images-imp/imp-vaca.jpeg"],
+    "descripcion": "Mate Imperial 100% calabaza. Con cuero vaquita blanco y negro. Guarda de alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 117,
+    "nombre": "Imperial Argentina",
+    "precio": "29.500",
+    "clase": "imperial",
+    "imagenes": ["/images-imp/imp-arg.jpeg"],
+    "descripcion": "Mate Imperial 100% calabaza. Con cuero de Argentina y virola full alpaca.",
+    "tipo": "mate"
+  },
+  {
+    "id": 118,
+    "nombre": "Imperial Dije Clubes",
+    "precio": "34.000",
+    "clase": "imperial",
+    "imagenes": ["/images-imp/imp-clubes.jpeg", "/images-imp/imp-clubes2.jpeg"],
+    "descripcion": "Mate Imperial 100% calabaza. Con cuero reforzado y virola con dije soldado de BOCA, RIVER y AFA.",
+    "tipo": "mate"
+  },
+  {
+    "id": 119,
+    "nombre": "Imperial Repujado con Escudo Argentino",
+    "precio": "29.000",
+    "clase": "imperial",
+    "imagenes": ["/images-imp/imp-escudo.jpeg", "/images-imp/imp-escudo2.jpeg"],
+    "descripcion": "Mate Imperial 100% calabaza. Con cuero repujado con el escudo de Argentina y virola full alpaca. Colores Gris y Suela.",
+    "tipo": "mate"
+  },
+  {
+    "id": 120,
+    "nombre": "Imperial Base FULL Alpaca",
+    "precio": "40.000",
+    "clase": "imperial",
+    "imagenes": ["/images-imp/imp-full-a.jpeg", "/images-imp/imp-full-a2.jpg"],
+    "descripcion": "Mate Imperial 100% calabaza. Con virola  y base refozada full alpaca. Colores Negro y Marron.",
+    "tipo": "mate"
+  },
+  {
+    "id": 121,
+    "nombre": "Termo Bala de 500ml",
+    "precio": "18.000",
+    "imagenes": ["/termos-img/bala-500.jpeg"],
+    "descripcion": "Termo bala de 500ml.",
+    "tipo": "termo"
   }
 ]
