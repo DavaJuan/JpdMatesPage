@@ -28,7 +28,7 @@ const ProductDetail = () => {
   };
 
   const phoneNumber = "+5491153754846";
-  const message = `Hola! Quiero el Mate/Producto ${product.nombre}!`;
+  const message = `Hola! Me interesa comprar un/una ${product.nombre}!`;
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
     message
   )}`;

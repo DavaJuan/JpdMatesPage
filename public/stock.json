@@ -16,7 +16,10 @@
     "nombre": "Imperial Algarrobo Bronce",
     "clase": "imperial",
     "precio": 20500,
-    "imagenes": ["/images-imp/algarrobo-bronce.jpeg"],
+    "imagenes": [
+      "/images-imp/algarrobo-bronce2.jpg",
+      "/images-imp/algarrobo-bronce.jpeg"
+    ],
     "descripcion": "Mate Imperial 100% de algarrobo con guarda de bronce gruesa.",
     "tipo": "mate"
   },
@@ -151,6 +154,8 @@
     "precio": 38000,
     "clase": "imperial",
     "imagenes": [
+      "/images-imp/imp-b-1.jpeg",
+      "/images-imp/imp-b-2.jpeg",
       "/images-imp/imp-base-alpaca-negro.jpeg",
       "/images-imp/imp-base-alpaca-m.jpeg",
       "/images-imp/imp-base-alp-croco2.jpeg",
@@ -196,11 +201,11 @@
   },
   {
     "id": 19,
-    "nombre": "Torpedo guarda de Aluminio",
+    "nombre": "Torpedo guarda de Acero",
     "precio": 18000,
     "clase": "torpedo",
-    "imagenes": ["/images-torp/torp-aluminio.jpeg"],
-    "descripcion": "Torpedo 100% calabaza con virola de aluminio y cuerpo de recubierto de cuero.",
+    "imagenes": ["/images-torp/torp-acero.jpg", "/images-torp/torp-acero2.jpg"],
+    "descripcion": "Torpedo 100% calabaza con virola de acero y cuerpo de recubierto de cuero.",
     "tipo": "mate"
   },
   {
@@ -226,7 +231,11 @@
     "nombre": "Torpedo con virola de Alpaca Cincelada",
     "precio": 32000,
     "clase": "torpedo",
-    "imagenes": ["/images-torp/torp-cincelado.jpeg"],
+    "imagenes": [
+      "/images-torp/torp-cincelado.jpg",
+      "/images-torp/torp-cincelado2.jpeg",
+      "/images-torp/torp-cincelado3.jpeg"
+    ],
     "descripcion": "Torpedo 100% calabaza con virola de alpaca cincelada. Color Negro o Marron.",
     "tipo": "mate"
   },
@@ -244,7 +253,12 @@
     "nombre": "Torpedo Cuero Repujado",
     "precio": 38000,
     "clase": "torpedo",
-    "imagenes": ["/images-torp/torp-repuj-negro.jpeg"],
+    "imagenes": [
+      "/images-torp/torp-repuj-negro.jpeg",
+      "/images-torp/torp-repuj-negro2.jpeg",
+      "/images-torp/torp-repuj-negro3.jpeg",
+      "/images-torp/torp-repuj-negro4.jpeg"
+    ],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca, pelotitas de bronce. Color Negro.",
     "tipo": "mate"
   },
@@ -271,7 +285,10 @@
     "nombre": "Torpedo Croco",
     "precio": 39800,
     "clase": "torpedo",
-    "imagenes": ["/images-torp/torp-croco.jpeg"],
+    "imagenes": [
+      "/images-torp/torp-croco2.jpeg",
+      "/images-torp/torp-croco.jpeg"
+    ],
     "descripcion": "Torpedo 100% calabaza con base y virola de alpaca con pelotitas de bronce. Color Negro o Marron.",
     "tipo": "mate"
   },
@@ -281,6 +298,7 @@
     "precio": 32000,
     "clase": "torpedo",
     "imagenes": [
+      "/images-torp/torp-printt.jpg",
       "/images-torp/torp-print.jpeg",
       "/images-torp/torp-print2.jpeg",
       "/images-torp/torp-print3.jpeg",
@@ -294,7 +312,10 @@
     "nombre": "Torpedo Animal Print Premium",
     "precio": 45000,
     "clase": "torpedo",
-    "imagenes": ["/images-torp/torp-print-p.jpeg"],
+    "imagenes": [
+      "/images-torp/torp-print-p.jpeg",
+      "/images-torp/torp-print-2.jpeg"
+    ],
     "descripcion": "Torpedo 100% calabaza recubierto por cuero con animal print de pelitos. Virola de alpaca cincelada con aro de bronce y vase de alpaca con pelotitas de bronce.",
     "tipo": "mate"
   },
@@ -397,7 +418,11 @@
     "nombre": "Camionero de Aluminio",
     "precio": 12500,
     "clase": "camionero",
-    "imagenes": ["/images-cam/cam-alum.jpeg"],
+    "imagenes": [
+      "/images-cam/cam-alum2.jpeg",
+      "/images-cam/cam-alum.jpeg",
+      "/images-cam/cam-alum3.jpeg"
+    ],
     "descripcion": "Mate Camionero de calabaza con virola de aluminio. Varios tamaños disponibles. Color Negro, Marron y Suela.",
     "tipo": "mate"
   },
@@ -433,7 +458,11 @@
     "nombre": "Camionero Criollo Laqueado",
     "precio": 26000,
     "clase": "camionero",
-    "imagenes": ["/images-cam/cam-criollo-bri.jpeg"],
+    "imagenes": [
+      "/images-cam/cam-criollo-bri.jpeg",
+      "/images-cam/cam-criollo-bri2.jpeg",
+      "/images-cam/cam-criollo-bri3.jpg"
+    ],
     "descripcion": "Mate Camionero Criollo 100% calabaza laqueada y virola de acero.",
     "tipo": "mate"
   },
@@ -936,7 +965,7 @@
     "id": 102,
     "nombre": "Luz Mate",
     "precio": 5000,
-    "imagenes": ["/accesorios-img/luz.jpeg"],
+    "imagenes": ["/accesorios-img/luz.jpeg", "/accesorios-img/luz2.jpeg"],
     "descripcion": "Luz Mate, ideal para mates en lugares con poca luz y mantener la preciosion al cebar.",
     "tipo": "accesorio"
   },
